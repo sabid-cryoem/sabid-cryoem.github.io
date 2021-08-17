@@ -1,0 +1,10 @@
+- date: 08/31
+  lecturer:
+  title: >
+    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
+  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture1_introF20.pdf
+  notes:
+  readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
+    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
+    - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
