@@ -1,0 +1,106 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+author: 
+name: QC Study Group
+title: Quantum Computing Study Group
+email: cyuhung@stat.sinica.edu.tw
+description:
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+
+url:  # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: true
+footer_fixed: true
+
+# Dimensions
+max_width: 800px
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username:
+google_analytics:
+youtube_channel:
+rss:  # notes rss
+
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
+blog_name: Course Notes
+blog_description: The notes written by students and edited by instructors
+
+# Pagination
+pagination:
+  enabled: true
+
+# Comments
+disqus_shortname: # put your disqus shortname
+
+# Optional features
+show_social_icons:  true
+enable_anchorjs:    true
+enable_latexjs:     true
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+future: true
+collections:
+  announcements:
+    defaults:
+      layout: post
+    output: true
+    permalink: /announcements/:path/
+  talks:
+    defaults:
+      layout: post
+    output: true
+    permalink: /talks/:path/
+
+announcements_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+sass:
+  sass_dir: _sass
+include: ['_pages']
+plugins:
+  - jekyll-email-protect
+  # - jekyll-github-metadata
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jekyll-twitter-plugin
+  - jemoji
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+katex_version: "0.10.1"
+anchorjs_version: "3.2.2"
+latexjs_version: "0.11.1"
+
+theme: jekyll-theme-slate

@@ -1,0 +1,15 @@
+
+{% if site.talks %}
+{% assign talks = site.talks | reverse %}
+{% for item in talks %}
+    <tr>
+    <td><strong>{{item.date | date: "%b %-d, %Y"}}</strong></td>
+    <td>{{item.speaker}}</td>
+    <td><a href="{{item.url | relative_url}}">{{item.title}}</a>
+    </td>
+    </tr>
+{% endfor %}
+{% endif %}
+<tr class="past">
+    <td colspan="3" align="center"><strong>End of the table</strong></td>
+</tr>
