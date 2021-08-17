@@ -11,19 +11,19 @@ layout: default
   <article class="post-content {{page.title}} clearfix">
     <table class="table table-hover">
       <colgroup>
-        <col style="width:20%">
-        <col style="width:20%">
+        <col style="width:10%">
+        <col style="width:30%">
         <col style="width:60%">
       </colgroup>
       <thead class="thead-light">
         <tr>
           <th scope="col">Date</th>
-          <th scope="col">Speaker</th>
           <th scope="col">Title</th>
+          <th scope="col">Reference</th>
         </tr>
       </thead>
       <tbody>
-        {{ content }}
+        {% include meeting_table.html %}
       </tbody>
     </table>
   </article>

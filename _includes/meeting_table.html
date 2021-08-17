@@ -1,0 +1,34 @@
+
+{% for item in site.data.meeting %}
+{% if item.date %}
+{% assign lecture = item %}
+    <tr>
+        <th scope="row">{{ lecture.date }}</th>
+        <td>
+            {% if lecture.title %}
+                {{ lecture.title }}
+            {% endif %}
+            <br>
+            [
+                {% if lecture.slides %}
+                <a href="{{ lecture.slides }}" target="_blank">slides</a>
+                {% else %}
+                slides
+                {% endif %}
+                {% if lecture.slides2 %}
+                | <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
+                {% endif %}
+            ]
+        </td>
+        <td>
+            {% if lecture.readings %}
+            <ul>
+            {% for reading in lecture.readings %}
+                <li>{{ reading }}</li>
+            {% endfor %}
+            </ul>
+            {% endif %}
+        </td>
+    </tr>
+{% endif %}
+{% endfor %}
