@@ -1,7 +1,7 @@
 - date: 08/31
   title: >
     <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture1_introF20.pdf
+  slides: <a href="/assets/slides/202108_report_ISS.pptx" download="report_ISS.pptx">[slides]</a>
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
