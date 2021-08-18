@@ -5,11 +5,11 @@ title: People
 ---
 
 <h3 class="post-title"><u>Members</u></h3>
-<table class = "table table-hover">
+<table>
     <colgroup>
-        <col style="width:20%">
-        <col style="width:40%">
-        <col style="width:40%">
+        <col style="width:25%">
+        <col style="width:45%">
+        <col style="width:30%">
       </colgroup>
       <thead class="thead-light">
         <tr>
@@ -51,6 +51,7 @@ title: People
         </tr>
     </tbody>
 </table>
+<p>
 <h4 class="post-title"><u>Postdocs</u></h4>
 <table>
     <tbody>
