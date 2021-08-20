@@ -1,29 +1,777 @@
-- date: 08/31
+- date: 2021-08-17
   title: >
-    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  slides: <a href="/assets/slides/202108_report_ISS.pptx" download="report_ISS.pptx">[slides]</a>
+    <strong>KLT picker: Particle picking using data-driven optimal templates</strong>
+  slides: <a href="/assets/slides/KLT picker.pptx" download="KLT picker.pptx">slides</a>
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
-    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
-    - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
+    - Amitay Eldara, Boris Landab, Yoel Shkolniskya </br>
+      <a href="/assets/reference/KLT_picker.pdf" target="blank">KLT picker:Particle picking using data-driven optimal templates</a>
 
-- date: 08/20
+- date: 2021-08-09
   title: >
-    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture1_introF20.pdf
+    <strong>Report on review paper, computational methods for single-Particle electron cryomicroscopy</strong>
+  slides: <a href="/assets/slides/202108_report_ISS.pptx" download="report_ISS.pptx">slides</a>
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
-    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
-    - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
+    - Amit Singer and Fred J. Sigworth</br>
+      <a href="/assets/reference/annurev-biodatasci.pdf" target="blank">Report on review paper, computational methods for single-Particle electron cryomicroscopy</a>
 
-- date: 08/20
+- date: 2021-08-03
   title: >
-    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website/assets/lectures/lecture1_introF20.pdf
+    <strong>Inferring a Continuous Distribution of Atom Coordinates from Cryo-EM Images using VAEs</strong>
+  slides: 
+  notes: <a href="/assets/slides/slides/Deepmind_VAE.pptx" download="Deepmind_VAE.pptx">slides</a>
+  readings:
+    - Dan Rosenbaum, Marta Garnelo, Michal Zielinski, Charlie Beattie, Ellen Clancy, Andrea Huber, Pushmeet Kohli,Andrew W. Senior, John Jumper, Carl Doersch, S. M. Ali Eslami, Olaf Ronneberger,and Jonas Adler</br>
+      <a href="/assets/reference/Inferring a Continuous Distribution of Atom.pdf" target="blank">Inferring a Continuous Distribution of Atom Coordinates from Cryo-EM Images using VAEs</a>
+
+- date: 2021-07-20
+  title: >
+    <strong>Recovery of conformational continuum from single-particle cryo-EM data:Optimization of ManifoldEM informed by ground-truth studies</strong>
+  slides: <a href="/assets/slides/DMSA.pptx" download="DMSA.pptx">slides</a>
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
-    - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
-    - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
+    - Evan Seitz, Peter Schwander, Francisco Acosta-Reyes, Suvrajit Maji, and Joachim Frank </br>
+      <a href="/assets/reference/Recovery of conformational continuum from single-particle cryo-EM data.pdf" target="blank">Recovery of conformational continuum from single-particle cryo-EM data:Optimization of ManifoldEM informed by ground-truth studies</a>
+   
+- date: 2021-07-16
+  title: >
+    <strong>ASCEP with Scipion3</strong>
+  slides: <a href="/assets/slides/hands_on_scipion3.pptx" download="hands_on_scipion3.pptx">slides</a>
+  readings:
+
+- date: 2021-07-06
+  title: >
+    <strong>Wasserstein K-Means for Clustering Tomographic Projections</strong>
+  slides: <a href="/assets/slides/Wasserstein Kmean.pptx" download="Wasserstein Kmean.pptx">slides</a>
+  notes:
+  readings:
+    - Rohan Rao, Amit Moscovich, and Amit Singer </br>
+      <a href="/assets/reference/Wasserstein K-Means for Clustering Tomographic Projections.pdf" target="blank">Wasserstein K-Means for Clustering Tomographic Projections</a> 
+
+- date: 2021-06-08
+  title: >
+    <strong>RL introduction and AlphaGo</strong>
+  slides: <a href="/assets/slides/RL-DDPG to AlphaGo.pptx" download="RL-DDPG to AlphaGo.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2021-05-11
+  title: >
+    <strong> Diffusion Map</strong>
+  slides: <a href="/assets/slides/Diffusion Map.pptx" download="Diffusion Map.pptx">slides</a>
+  notes:
+  readings:
+    - R. R. Coifman, S. Lafon, A. B. Lee, M. Maggioni, B. Nadler, F. Warner, and S. W. Zucker </br>
+      <a href="/assets/reference/Geometric diffusions as a tool for harmonic analysis and structure definition of data:Diffusion maps.pdf" target="blank"> Geometric diffusions as a tool for harmonic analysis and structure definition of data:Diffusion maps</a> 
+    - Richard Socher </br>
+      <a href="/assets/reference/Manifold Learning and Dimensionality Reduction.pdf" target="blank">  Manifold Learning and Dimensionality Reduction with Diffusion Maps</a>
+    - J. de la Porte, B. M. Herbst, W. Hereman, S. J. van der Walt </br>
+      <a href="/assets/reference/An Introduction to Diffusion Maps.pdf" target="blank">An Introduction to Diffusion Maps</a>
+
+- date: 2021-05-04
+  title: >
+    <strong> 3D Flexible Refinement: Structure and Motion of Flexible Proteins from Cryo-EM</strong>
+  slides: <a href="/assets/slides/3DFlex.pptx" download="3DFlex.pptx">slides</a>
+  notes:
+  readings:
+    - Muyuan Chen and Steven Ludtke </br>
+      <a href="/assets/reference/3D_GMM.pdf" target="blank">Deep learning based mixed-dimensional GMM</a> 
+    - Ali Punjani David J. Fleet </br>
+      <a href="/assets/reference/3DFlex_Refinement.pdf" target="blank">3D Flexible Refinement:Structure and Motion of Flexible Proteins from Cryo-EM</a> 
+    
+- date: 2021-04-20
+  title: >
+    <strong> Directly reconstructing PCAs of heterogeneous particles from cryo-EM images</strong>
+  slides: <a href="/assets/slides/Directly reconstructing PCAs of heterogeneous particles from cryo-EM.pptx" download="Directly reconstructing PCAs of heterogeneous particles from cryo-EM.pptx">slides</a>
+  notes:
+  readings:
+    - Hemant D. Tagare, Alp Kucukelbir, Fred J. Sigworth, Hongwei Wang, and Mural Rao </br>
+      <a href="/assets/reference/Directly Reconstructing Principal Components.pdf" target="blank">Directly Reconstructing Principal Components of Heterogeneous Particles from Cryo-EM Images</a> 
+
+- date: 2021-03-08
+  title: >
+    <strong> AlphaCryo4D - 3D variability analysis using deep manifold learning</strong>
+  slides: <a href="/assets/slides/AlphaCryo4D.pptx" download="AlphaCryo4D.pptx">slides</a>
+  notes:
+  readings:
+    - Zhaolong Wu, Shuwen Zhang, Wei Li Wang, Yinping Ma, Yuanchen Dong, and Youdong Mao</br>
+      <a href="/assets/reference/Alphacryo4d.pdf" target="blank">Deep manifold learning reveals hidden dynamics of 2 proteasome autoregulation</a> 
+    
+- date: 2021-02-23
+  title: >
+    <strong> Propagation of Conformational Coordinates Across Angular Space in Mapping the Continuum of States from Cryo-EM Data by Manifold Embedding</strong>
+  slides: <a href="/assets/slides/Propagation_Conformations.pdf.pptx" download="Propagation_Conformations.pdf.pptx">slides</a>
+  notes:
+  readings:
+    - Suvrajit Maji, Hstau Liao, Ali Dashti, Ghoncheh Mashayekhi, Abbas Ourmazd, and Joachim Frank</br>
+      <a href="/assets/reference/Propagation_Conformations.pdf" target="blank">Propagation of Conformational Coordinates Across Angular Space in Mapping the Continuum of States from Cryo-EM Data by Manifold Embedding</a> 
+
+- date: 2021-02-09
+  title: >
+    <strong> Computationally efficient Markov chain simulation</strong>
+  slides: 
+  notes:
+  readings:
+   
+
+- date: 2021-02-01
+  title: >
+    <strong> Randomized Algorithms </strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2021-01-19
+  title: >
+    <strong>POLARIS: Path of Least Action Analysis on Energy Landscapes</strong>
+  slides: <a href="/assets/slides/POLARIS.pptx" download="POLARIS.pptx">slides</a>
+  notes:
+  readings:
+    - Evan Seitz and Joachim Frank </br>
+      <a href="/assets/reference/Path of Least Action Analysis on Energy Landscapes.pdf" target="blank">POLARIS:Path of Least Action Analysis on Energy Landscapes</a> 
+
+- date: 2020-12-30
+  title: >
+    <strong>Exploring 3D Dynamics in CryoEM – ManifoldEM</strong>
+  slides: <a href="/assets/slides/ManifoldEM.pptx" download="ManifoldEM.pptx">slides</a>
+  notes:
+  readings:
+    - Mark A. Herzik Jr </br>
+      <a href="/assets/reference/Cryo-electron microscopy reaches atomic resolution.pdf" target="blank">Cryo-electron microscopy reaches atomic resolution</a> 
+
+
+- date: 2020-12-22
+  title: >
+    <strong>Introduction to Bayesian computation</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-12-14
+  title: >
+    <strong> Image deblurring</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-12-08
+  title: >
+    <strong>Modeling accounting for data collection</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-12-01
+  title: >
+    <strong>Self-supervise denoising</strong>
+  slides: <a href="/assets/slides/Denoise_extend2.pptx" download="Denoise_extend2.pptx">slides</a>
+  notes:
+  readings:
+    - Joshua Batson,and Loic Royer </br>
+      <a href="/assets/reference/Blind Denoising by Self-Supervision.pdf" target="blank">Noise2Self:Blind Denoising by Self-Supervision</a> 
+
+- date: 2020-11-24
+  title: >
+    <strong>Evaluating, comparing, and expanding models</strong>
+  slides: <a href="/assets/slides/Evaluating, comparing, and expanding.pptx" download="POLARIS.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2020-11-17
+  title: >
+    <strong>Noise2Self: Blind denoising by self-supervision</strong>
+  slides: <a href="/assets/slides/Denoise.pptx" download="POLARIS.pptx">slides</a>
+  notes:
+  readings:
+    - Joshua Batson,and Loic Royer </br>
+      <a href="/assets/reference/Blind Denoising by Self-Supervision.pdf" target="blank">Noise2Self:Blind Denoising by Self-Supervision</a> 
+    - Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila </br>
+      <a href="/assets/reference/Learning Image Restoration without Clean Data.pdf.pdf" target="blank">POLARIS:Path of Least Action Analysis on Energy Landscapes</a> 
+
+- date: 2020-10-27
+  title: >
+    <strong>pmmo</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-10-20
+  title: >
+    <strong>NCHC GPU Hackathon</strong>
+  slides: <a href="/assets/slides/Project_summary.pptx" download="POLARIS.pptx">slides</a>
+  notes:
+  readings:
+
+  - date: 2020-09-29
+  title: >
+    <strong>Bayesian Data Analysis ch5. Hierarchical models</strong>
+  slides: <a href="/assets/slides/slides_ch5.pdf" download="POLARIS.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2020-09-22
+  title: >
+    <strong>Asymptotics and connections to non-Bayesian approaches</strong>
+  slides: <a href="/assets/slides/Asymptotics-and-connections-to-non-Bayesian-approaches.pptx" download="Asymptotics-and-connections-to-non-Bayesian-approaches.pptx">slides</a>
+  notes:
+  readings:
+
+
+- date: 2020-09-15
+  title: >
+    <strong>Accelerated Multi-reference Alignmen</strong>
+  slides: <a href="/assets/slides/Accelerated Multi-reference Alignment.pptx" download="Accelerated Multi-reference Alignment.pptx">slides</a>
+  notes:
+  readings:
+    - Pawel Penczek, MichaelRadermacher,and Joachim Frank </br>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/030439919290233A?via%3Dihub" target="blank">Three-dimensional reconstruction of single particles embedded in ice</a> 
+
+- date: 2020-09-08
+  title: >
+    <strong>Introduction to Bayesian data analysis</strong>
+  slides: <a href="/assets/slides/Bayesian_Data_Analysis.pptx" download="Bayesian_Data_Analysis.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2020-07-20
+  title: >
+    <strong>Introduction to variational inference</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-07-14
+  title: >
+    <strong>Multiple Testing Problem</strong>
+  slides: <a href="/assets/slides/Multiple Testing Problem.pptx" download="Multiple Testing Problem.pptx">slides</a>
+  notes:
+  readings:
+    - Bradley Efron </br>
+      <a href="/assets/reference/Large-Scale Inference.pdf" target="blank">Large-Scale Inference</a> 
+    - Dr. Emmanuel Candes' note
+    - Dr. SUN,Y.-K.'s lecture
+- date: 2020-06-30
+  title: >
+    <strong>Visualization Review</strong>
+  slides: <a href="/assets/slides/Visualization Review.pptx" download="Visualization Review.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2020-06-30
+  title: >
+    <strong>Introduction to variational auto-encoder</strong>
+  slides: <a href="https://hackmd.io/@veisteak/VAE">Link</a>
+  notes:
+  readings:
+    - Diederik P. Kingma and Max Welling </br>
+      <a href="/assets/reference/Variational Autoencoders.pdf" target="blank">An Introduction to Variational Autoencoders</a> 
+    - <a href="https://ermongroup.github.io/cs228-notes/extras/vae/" target="blank">The variational auto-encoder</a> 
+
+- date: 2020-06-18
+  title: >
+    <strong>Categorical Data Embedding</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-06-18
+  title: >
+    <strong> Detecting consistent common lines in cryo-EM by voting</strong>
+  slides: <a href="/assets/slides/voting.pptx" download="voting.pptx">slides</a>
+  notes:
+  readings:
+    - Sjors Scheres </br>
+      <a href="/assets/reference/A Bayesian approach to cryoEM structure determination.pdf" target="blank">A Bayesian approach to cryoEM structure determination</a> 
+
+- date: 2020-06-11
+  title: >
+    <strong>Using community detection on projection images for grouping 3D structure conformations</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-06-04
+  title: >
+    <strong>cryo-EM dataset</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-05-20
+  title: >
+    <strong>ASCEP 平台介紹</strong>
+  slides: <a href="/assets/slides/ASCEP.pptx" download="ASCEP.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2020-03-05
+  title: >
+    <strong>A generalized information criterion for high-dimensional PCA rank selection</strong>
+  slides: 
+  notes:
+  readings:
+    
+- date: 2020-02-12
+  title: >
+    <strong>Survey on community detection</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-02-12
+  title: >
+    <strong>區塊鏈相關簡介</strong>
+  slides: 
+  notes:
+  readings:    
+
+  - date: 2020-02-06
+  title: >
+    <strong>A Speedy and robust Cryo-EM processing Platform</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2020-02-06
+  title: >
+    <strong>On asymptotic normality of CDM-PCA in HDLSS</strong>
+  slides: <a href="/assets/slides/HDLSS_5min.pptx" download="HDLSS.pptx">slides</a>
+  notes:
+  readings:
+
+
+- date: 2020-01-09
+  title: >
+    <strong>Mode-Seeking Clustering and Density Ridge Estimation via Direct Estimation of Density-Derivative-Ratios</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-12-26
+  title: >
+    <strong> Diffusion maps</strong>
+  slides: <a href="/assets/slides/Diffusion maps.pdf" download="Diffusion maps.pdf">docs</a>
+  notes:
+  readings:
+    - Ronald R. Coifman,and Stéphane Lafon </br>
+      <a href="/assets/reference/Diffusion maps.pdf" target="blank">Geometric harmonics:A novel tool for multiscale out-of-sampleextension of empirical functions</a> 
+
+- date: 2019-12-19
+  title: >
+    <strong> Symposium on statistical analysis for molecular imaging</strong>
+  slides: <a href="/assets/slides/ASCEP1.pptx" download="ASCEP1.pptx">slides</a>
+  notes:
+  readings:
+    - SZU-CHI CHUNG,PO-YAO NIU, SU-YUN HUANG,WEI-HAU CHANG AND I-PING TU </br>
+      <a href="/assets/reference/APPLYING KRONECKER ENVELOPE PCA TO DENOISE.pdf" target="blank">2SDR:APPLYING KRONECKER ENVELOPE PCA TO DENOISE CRYO-EM IMAGES</a> 
+
+- date: 2019-12-19
+  title: >
+    <strong> Covariance Matrix Estimation and its Application in Cryo-EM</strong>
+  slides: <a href="/assets/slides/CDM_HDLSS_CryoEM.pptx" download="CDM_HDLSS_CryoEM.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-11-14
+  title: >
+    <strong>Reproducing Kernel Hilbert Spaces </strong>
+  slides: <a href="/assets/slides/RKHSs_GM.pptx" download="RKHSs_GM.pptx">slides</a>
+  notes:
+  readings:
+    - <a href="/assets/reference/Wainwright_High_Dimensional_Statistics_A_Non_Asymptotic_Vie wpoint_ch12.pdf" target="blank">Reproducing kernel Hilbert spaces</a> 
+
+- date: 2019-10-30
+  title: >
+    <strong> MPCA and Kronecker product envelop PCA </strong>
+  slides: 
+  readings:
+
+- date: 2019-10-30
+  title: >
+    <strong> Experiments and simulations of 2SDR</strong>
+  slides: <a href="/assets/slides/2SDR_Simulation.pptx" download="2SDR_Simulation.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-10-24
+  title: >
+    <strong> High-Dimensional Space</strong>
+  slides: <a href="/assets/slides/High-Dimensional Space.pptx" download="High-Dimensional Space.pptx">slides</a>
+  notes:
+  readings:
+    - <a href="/assets/reference/chap1-high-dim-space.pdf" target="blank">chap1-high-dim-space</a> </br>
+    - Avrim Blum, John Hopcroft, and Ravindran Kannan</br>
+      <a href="/assets/reference/Foundations of Data Science.pdf" target="blank">Foundations of Data Science</a>       
+
+- date: 2019-10-17
+  title: >
+    <strong>Distributed Consensus Reduced Support Vector Machine: Sharing Models without Sharing Data</strong>
+  slides: 
+  notes:
+  readings:
+
+
+  title: >
+    <strong> graph partition for cryo-EM data</strong>
+  slides: <a href="/assets/slides/Graph_Clustering.pptx" download="Graph_Clustering.pptx">slides</a>
+  notes:
+  readings:
+    - G.T. Herman,and M. Kalinowskin</br>
+      <a href="/assets/reference/Classification of heterogeneous electron microscopic projections intohomogeneous subsets.pdf" target="blank">Classification of heterogeneous electron microscopic projections intohomogeneous subsets</a>       
+    - Maxim Shatsky, Richard J. Hall, Eva Nogales, Jitendra Malik, Steven E. Brenner</br>
+      <a href="/assets/reference/Automated multi-model reconstruction from single-particle electronmicroscopy data.pdf" target="blank">Automated multi-model reconstruction from single-particle electronmicroscopy data</a>
+    - Shuo Yin, Biao Zhang, Yang Yang, Yan Huang, and Hong-Bin Shen</br>
+      <a href="/assets/reference/Clustering Enhancement of Noisy Cryo-Electron Microscopy SingleParticle Images with a Network Structural Similarity Metric.pdf" target="blank">Clustering Enhancement of Noisy Cryo-Electron Microscopy SingleParticle Images with a Network Structural Similarity Metric</a>
+
+- date: 2019-09-19
+  title: >
+    <strong>A Review of Network Connectivity</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-09-18
+  title: >
+    <strong>Generalized network dismantling</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-09-11
+  title: >
+    <strong>Hu’s seven moments</strong>
+  slides: <a href="/assets/slides/Moment-Based_Techniques.pptx" download="Moment-Based_Techniques.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-08-01
+  title: >
+    <strong>ASCEP with Scipion2</strong>
+  slides: <a href="/assets/slides/hands_on_scipion_v4.pptx" download="hands_on_scipion_v4.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-07-17
+  title: >
+    <strong>Limiting Spectral Distributions (Large Sample Covariance Matrices and High Dimensional Data Analysis) </strong>
+  slides: <a href="/assets/slides/Limiting Spectral Distribution.pptx" download="Limiting Spectral Distribution.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-07-03
+  title: >
+    <strong>Introduction to Motion and CTF estimation</strong>
+  slides: <a href="/assets/slides/Local_motion_ctf.pptx" download="Local_motion_ctf.pptx">slides</a>
+  notes:
+  readings: 
+    - Ming-Kuei Hu</br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/1057692" target="blank">Visual pattern recognition by moment invariants</a>
+
+  
+ 
+- date: 2019-06-20
+  title: >
+    <strong>minD密度分析</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-05-30
+  title: >
+    <strong>Fast interpolation-based t-SNE</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-05-02
+  title: >
+    <strong>Timing Profiling of PCA vs 2SDR</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-05-02
+  title: >
+    <strong>Transfer learning</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2019-04-25
+  title: >
+    <strong>Overcoming catastrophic forgetting in neural networks</strong>
+  slides: <a href="/assets/slides/Overcoming.pptm" download="Overcoming.pptm">slides</a>
+  notes:
+  readings:
+    - James Kirkpatricka, Razvan Pascanua, Neil Rabinowitz, Joel Venessa, Guillaume Desjardins, Andrei A. Rusu,Kieran Milana, John Quan, Tiago Ramalho, Agnieszka Grabska-Barwinska, Demis Hassabis, Claudia Clopath,Dharshan Kumarana, and Raia Hadsell</br>
+      <a href="/assets/reference/Overcoming.pdf" target="blank">Overcoming catastrophic forgetting in neural networks</a>       
+
+   
+- date: 2019-04-11
+  title: >
+    <strong> Fast Image Alignment by using Moment of Inertia</strong>
+  slides: <a href="/assets/slides/Moment of Inertia.pptx" download="Moment of Inertia.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2019-03-28
+  title: >
+    <strong>量子電腦簡介</strong>
+  slides: 
+  notes:
+  readings:
+    
+- date: 2019-03-21
+  title: >
+    <strong>Contrast loss and radiation damage of cryoEM images</strong>
+  slides: <a href="/assets/slides/Radiation_damage_recent.pptx" download="Radiation_damage_recent.pptx">slides</a>
+  notes:
+  readings:
+    - Peter B. Rosenthal,and Richard Henderson</br>
+      <a href="/assets/reference/Optimal Determination.pdf" target="blank">Optimal Determination of Particle Orientation,Absolute Hand, and Contrast Loss in Single-particleElectron Cryomicroscopy</a>       
+    - Lindsay A. Baker, Eric A. Smith, Stephanie A. Bueler,and John L. Rubinstein</br>
+      <a href="/assets/reference/catalase crystals.pdf" target="blank">The resolution dependence of optimal exposures in liquid nitrogentemperature electron cryomicroscopy of catalase crystals</a>       
+    - Timothy Grant,and Nikolaus Grigorieff</br>
+      <a href="https://elifesciences.org/articles/06980" target="blank">Measuring the optimal exposure for single particle cryo-EM using a 2.6 Å reconstruction of rotavirus VP6</a>       
+    - Sjors HW Scheres</br>
+      <a href="https://elifesciences.org/articles/03665" target="blank">Beam-induced motion correction for sub-megadalton cryo-EM particles</a>       
+
+- date: 2019-03-21
+  title: >
+    <strong>The art of using t-SNE for single-cell transcriptomics</strong>
+  slides: <a href="/assets/slides/tSNE_detail.pptx" download="tSNE_detail.pptx">slides</a>
+  notes:
+  readings:
+    
+    
+- date: 2019-01-31
+  title: >
+    <strong>Eigenvectors in Cross Data matrix method</strong>
+  slides: <a href="/assets/slides/Eigenvectors in Cross Data Matrix Method.pdf" download="Eigenvectors in Cross Data Matrix Method.pdf">slides</a>
+  notes:
+  readings:
+    - KazuyoshiYata,and MakotoAoshima</br>
+      <a href="/assets/reference/EffectivePCA.pdf" target="blank">EffectivePCAforhigh-dimension,low-sample-sizedatawithsingularvaluedecompositionofcrossdatamatrix</a>       
+
+
+- date: 2019-01-24
+  title: >
+    <strong>3D Reconstruction in CryoEM</strong>
+  slides: <a href="/assets/slides/3D_Recon_model_imp.pptx" download="3D_Recon_model_imp.pptx">slides</a>
+  notes:
+  readings:
+    - Sjors H. W. Scheres</br>
+      <a href="/assets/reference/A Bayesian View on Cryo-EM Structure Determination.pdf" target="blank">A Bayesian View on Cryo-EM Structure Determination</a>       
+    - Sjors H.W. Scheres</br>
+      <a href="/assets/reference/Implementation of a Bayesian approach to cryo-EMstructure determination.pdf" target="blank">Implementation of a Bayesian approach to cryo-EMstructure determination</a>       
+    - Dari Kimanius, Björn O Forsberg, Sjors HW Scheres,and Erik Lindahl </br>
+      <a href="/assets/reference/Accelerated cryo-EM structure determination with parallelisation using GPUs in RELION-2.pdf" target="blank">Accelerated cryo-EM structure determination with parallelisation using GPUs in RELION-2</a>       
+
+- date: 2019-01-03
+  title: >
+    <strong>Effective PCA for high-dimension, low-sample-size data</strong>
+  slides: <a href="/assets/slides/Effective-PCA.pptx" download="Effective-PCA.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2018-12-06
+  title: >
+    <strong>Analyzing Model Bias in Cryo-EM Single-Particle Image Processing </strong>
+  slides: <a href="/assets/slides/Analyzing Model Bias.pptx" download="Analyzing Model Bias.pptx">slides</a>
+  notes:
+  readings:
+      - Richard Henderson </br>
+        <a href="/assets/reference/Einstein from noise.pdf" target="blank">Avoiding the pitfalls of single particle cryo-electron microscopy:Einstein from noise</a>       
+
+
+- date: 2018-12-06
+  title: >
+    <strong>A Dimension Reduction Method For Cryo-EM Image Processing</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-11-22
+  title: >
+    <strong>Data visualization</strong>
+  slides: 
+  notes:
+  readings:
+
+
+- date: 2018-10-18
+  title: >
+    <strong> MicrobeJ and Its Applications</strong>
+  slides: <a href="/assets/slides/MicrobeJ.pptx" download="MicrobeJ.pptx">slides</a>
+  notes:
+  readings:
+    - Adrien Ducret, Ellen M. Quardokus ,and Yves V. Brun</br>
+      <a href="/assets/reference/MicrobeJ.pdf" target="blank">MicrobeJ, a tool for high throughput bacterial cell detection and quantitative analysis</a> 
+
+
+- date: 2018-10-11
+  title: >
+    <strong> ASCEP手把手教學</strong>
+  slides: <a href="/assets/slides/scipion手把手教學.pptx" download="hands on.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2018-09-27
+  title: >
+    <strong> Motion Correction</strong>
+  slides: <a href="/assets/slides/Motion-Correction.pptx" download="Motion-Correction.pptx">slides</a>
+  notes:
+  readings:
+
+
+- date: 2018-09-21
+  title: >
+    <strong>Accelerating mean shift method using tree-based algorithms</strong>
+  slides: <a href="/assets/slides/ms.pdf" download="ms.pdf">slides</a>
+  notes:
+  readings:
+    - Yizong Cheng</br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/400568" target="blank">Mean shift, mode seeking, and clustering</a> 
+    - Huimin Guo, Ping Guo,and Hanqing Lu</br>
+      <a href="https://ieeexplore.ieee.org/document/4274226" target="blank">A Fast Mean Shift Procedure with New Iteration Strategy and Re-sampling</a> 
+    - Sanjoy Dasgupta,and Yoav Freund</br>
+      <a href="/assets/reference/rptree-stoc.pdf" target="blank">Random projection trees and low dimensional manifolds</a> 
+    - Daniel Freedman, and Pavel Kisilev</br>
+      <a href="/assets/reference/Fast_Mean_Shift_by_compact_density_representation.pdf" target="blank">Fast Mean Shift by compact density representation</a> 
+    - Ting-Li Chen, Dai-Ni Hsieh, Hung Hung, and I-Ping Tu</br>
+      <a href="/assets/reference/g-SUP_A_clustering_algorithm_for_cryo-electron_mic.pdf" target="blank">γ-SUP:A Clustering Algorithm For Cryo-Election Microscopy Images of Asymmetric Particles.</a> 
+
+- date: 2018-09-13
+  title: >
+    <strong>cryo-SPARC</strong>
+  slides:
+  notes:
+  readings:
+
+- date: 2018-08-30
+  title: >
+    <strong> Local Linear Regression on Manifolds and its Geometric Interpretatio</strong>
+  slides: 
+  notes:
+  readings:
+
+
+- date: 2018-08-30
+  title: >
+    <strong>U-Net and its application in  Biomedical Image</strong>
+  slides: 
+  notes:
+  readings:
+
+
+- date: 2018-05-24
+  title: >
+    <strong>Two stage robust dimension reduction</strong>
+  slides: 
+  notes:
+  readings:
+
+
+- date: 2018-05-24
+  title: >
+    <strong>A variable screening approach for linear regression</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-04-25
+  title: >
+    <strong>cryoEM 3D-processing strategy summary</strong>
+  slides: <a href="/assets/slides/cryoEM 3D-processing strategy summary.pptx" download="cryoEM 3D-processing strategy summary.pptx">slides</a>
+  notes:
+  readings:
+
+
+- date: 2018-04-19
+  title: >
+    <strong>Integrating multiple random sketches for sufficient dimension reduction in large-p-small-n problems</strong>
+  slides:
+  notes:
+  readings:
+
+- date: 2018-04-12
+  title: >
+    <strong>Robust Model Fitting - Selection of Tuning Parameters in the Aspect of Gamma Clustering </strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-04-12
+  title: >
+    <strong>Robust PCA </strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-03-29
+  title: >
+    <strong>2SDR preprocessing for clustering in cryoem</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-03-22
+  title: >
+    <strong>Introduction to GAN</strong>
+  slides:
+  notes:
+  readings:
+
+- date: 2018-03-14
+  title: >
+    <strong>Robust Regression by Self-Updating Process</strong>
+  slides: <a href="/assets/slides/robust-regression-by-SUP.pdf" download="robust-regression-by-SUP.pdf">slides</a>
+  notes:
+  readings:
+
+- date: 2018-01-31
+  title: >
+    <strong>Introduction to Generative Adversarial Network </strong>
+  slides: <a href="/assets/slides/IntroGAN.pptx" download="IntroGAN.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2018-01-18
+  title: >
+    <strong>Stream Cipher and ID-Based Crypto Systems for IoT Applications</strong>
+  slides: 
+  notes:
+  readings:
+
+- date: 2018-01-18
+  title: >
+    <strong>Significance Testing Algorithms</strong>
+  slides: <a href="/assets/slides/Significance Testing Algorithms.pdf" download="Significance Testing Algorithms.pdf">slides</a>
+  notes:
+  readings:
+
+- date: 2018-01-11
+  title: >
+    <strong>Relion</strong>
+  slides: <a href="/assets/slides/relion.pdf" download="relion.pdf">slides</a>
+  notes:
+  readings:
+    - Sjors H.W. Scheres</br>
+      <a href="/assets/reference/relion21_tutorial.pdf" target="blank">Single-particle processing in relion-2.1</a> 
+
+
+
+- date: 2018-01-04
+  title: >
+    <strong>Large-Scale Hypothesis Testing</strong>
+  slides: <a href="/assets/slides/Large-Scale Hypothesis Testing.pdf" download="Large-Scale Hypothesis Testing.pdf">slides</a>
+  notes:
+  readings:
+
+- date: 2017-11-21
+  title: >
+    <strong>random partition t-SNE</strong>
+  slides: 
+  notes:
+  readings:

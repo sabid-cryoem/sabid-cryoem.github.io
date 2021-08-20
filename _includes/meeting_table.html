@@ -1,17 +1,16 @@
-
 {% for item in site.data.meeting %}
 {% if item.date %}
 {% assign lecture = item %}
     <tr>
         <th scope="row">{{ lecture.date }}</th>
         <td>
-            {% if lecture.title %}
+{% if lecture.title %}
                 {{ lecture.title }}
             {% endif %}
             <br>
             [
                 {% if lecture.slides %}
-                <a href="{{ lecture.slides }}" target="_blank">slides</a>
+                {{ lecture.slides }}
                 {% else %}
                 slides
                 {% endif %}
