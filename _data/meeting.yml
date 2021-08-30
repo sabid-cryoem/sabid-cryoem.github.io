@@ -36,8 +36,8 @@
 - date: 2021-08-03
   title: >
     <strong>Inferring a Continuous Distribution of Atom Coordinates from Cryo-EM Images using VAEs</strong>
-  slides: 
-  notes: <a href="/assets/slides/slides/Deepmind_VAE.pptx" download="Deepmind_VAE.pptx">slides</a>
+  slides: <a href="/assets/slides/slides/Deepmind_VAE.pptx" download="Deepmind_VAE.pptx">slides</a>
+  notes: 
   readings:
     - Dan Rosenbaum, Marta Garnelo, Michal Zielinski, Charlie Beattie, Ellen Clancy, Andrea Huber, Pushmeet Kohli,Andrew W. Senior, John Jumper, Carl Doersch, S. M. Ali Eslami, Olaf Ronneberger,and Jonas Adler</br>
       <a href="/assets/reference/Inferring a Continuous Distribution of Atom.pdf" target="blank">Inferring a Continuous Distribution of Atom Coordinates from Cryo-EM Images using VAEs</a>
