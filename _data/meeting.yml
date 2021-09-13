@@ -1,3 +1,19 @@
+- date: 2021-09-14
+  title: >
+    <strong>Learning to recover orientations from projections in Single-Particle Cryo-EM</strong>
+  slides: <a href="/assets/slides/Learning to recover orientations from projections in single particle cryoEM.pptx" download="Learning to recover orientations from projections in single particle cryoEM.pptx">slides</a>
+  notes:
+  readings:
+  - Jelena Banjac, Laurène Donati, Michaël Defferrard </br>
+      <a href="/assets/reference/Recover_Pose_Siamese.pdf" target="blank">Learning to recover orientations from projections in Single-Particle Cryo-EM</a>
+
+- date: 2021-08-31
+  title: >
+    <strong>Presentation for Yu-Hsiang's PhD thesis - Explore the Structure of Proton</strong>
+  slides: <a href="/assets/slides/20210831report.pdf" download="Presentation.pdf">slides</a>
+  notes:
+  readings:
+
 - date: 2021-08-27
   title: >
     <strong>Presentation for Chun-Lu's PhD thesis in France and postdoc in Czech Repulic</strong>
