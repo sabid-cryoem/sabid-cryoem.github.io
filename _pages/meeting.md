@@ -4,6 +4,7 @@ permalink: /meeting/
 title: Meeting
 ---
 
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title></title>
@@ -98,7 +99,7 @@ div.vertical {
 
 		var hash= pwd;
 		hash= Sha1.hash(pwd);
-		var url= "/" + hash ;
+		var url= "/" + hash  ;
 
 		$.ajax({
 			url : url,

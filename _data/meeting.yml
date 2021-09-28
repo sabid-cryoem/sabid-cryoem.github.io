@@ -1,3 +1,12 @@
+- date: 2021-09-28
+  title: >
+    <strong>Reducing bias and variance for CTF estimation in single particle cryo-EM</strong>
+  slides: <a href="/assets/slides/202109_presentation_ISS.pdf">slides</a>
+  notes:
+  readings:
+  - Ayelet Heimowitz, Joakim Andén, Amit Singer </br>
+      <a href="/assets/reference/ReducingbiasandvarianceforCTFestimationinsingleparticlecryo-EM.pdf" target="blank">Reducing bias and variance for CTF estimation in single particle cryo-EM</a>
+
 - date: 2021-09-14
   title: >
     <strong>Learning to recover orientations from projections in Single-Particle Cryo-EM</strong>
