@@ -1,3 +1,12 @@
+- date: 2021-10-05
+  title: >
+    <strong>Unit quaternion description of spatial rotations in 3D electron Cryo-EM</strong>
+  slides: <a href="/assets/slides/UnitQuaternion.pdf">slides</a>
+  notes:
+  readings:
+  - Mingxu Hua, Qi Zhangd, Jing Yangd, Xueming Li </br>
+      <a href="/assets/reference/UnitQuaternion.pdf" target="blank">Unit quaternion description of spatial rotations in 3D electron Cryo-EM</a>
+
 - date: 2021-09-28
   title: >
     <strong>Reducing bias and variance for CTF estimation in single particle cryo-EM</strong>
