@@ -8,16 +8,20 @@
                 {{ lecture.title }}
             {% endif %}
             <br>
-            [
+            
                 {% if lecture.slides %}
-                {{ lecture.slides }}
+                [ {{ lecture.slides }} ]
                 {% else %}
-                slides
+                
                 {% endif %}
-                {% if lecture.slides2 %}
-                | <a href="{{ lecture.slides2 }}" target="_blank">slides 2</a>
+
+            
+            
+                {% if lecture.video %}
+               [ {{ lecture.video }} ]
+                {% else %}
                 {% endif %}
-            ]
+            
         </td>
         <td>
             {% if lecture.readings %}

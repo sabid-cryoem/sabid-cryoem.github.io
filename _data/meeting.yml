@@ -1,6 +1,6 @@
 - date: 2021-10-05
   title: >
-    <strong>Unit quaternion description of spatial rotations in 3D electron Cryo-EM</strong>
+    <strong>Unit quaternion description of spatial rotations in 3D electron Cryo-EM</strong>    
   slides: <a href="/assets/slides/UnitQuaternion.pdf">slides</a>
   notes:
   readings:
@@ -88,6 +88,7 @@
 - date: 2021-07-16
   title: >
     <strong>ASCEP with Scipion3</strong>
+  video: <a href="https://www.youtube.com/watch?v=gCJEZKGMjPo">video</a>
   slides: <a href="/assets/slides/hands_on_scipion3.pptx" download="hands_on_scipion3.pptx">slides</a>
   readings:
 
