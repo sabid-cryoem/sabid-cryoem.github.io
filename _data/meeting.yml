@@ -1,3 +1,21 @@
+- date: 2021-10-12
+  title: >
+    <strong>Unit quaternion description of spatial rotations in 3D electron Cryo-EM</strong>    
+  video: <a href="https://youtu.be/Q14fErjyips">video</a>
+  slides: <a href="/assets/slides/CTF.pdf">slides</a>
+  notes:
+  readings:
+
+- date: 2021-10-12
+  title: >
+    <strong>DeepAlign, a 3D alignment method based on regionalized deep learning for Cryo-EM</strong>    
+  video: <a href="https://youtu.be/zpt0xUC2hNw">video</a>
+  slides: <a href="/assets/slides/DeepAlign.pptx">slides</a>
+  notes:
+  readings:
+  - A. Jiménez-Moreno, D. Střelák, J. Filipovič, J.M. Carazo, C.O.S. Sorzano </br>
+      <a href="/assets/reference/DeepAlign.pdf" target="blank">DeepAlign, a 3D alignment method based on regionalized deep learning for Cryo-EM</a>
+
 - date: 2021-10-05
   title: >
     <strong>Unit quaternion description of spatial rotations in 3D electron Cryo-EM</strong>    
