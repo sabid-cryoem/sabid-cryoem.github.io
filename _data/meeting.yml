@@ -1,3 +1,23 @@
+- date: 2021-10-26
+  title: >
+    <strong>Deep Metric Learning: A Survey</strong>    
+  video: <a href="https://youtu.be/-nyIO6l1bOo">video</a>
+  slides: <a href="/assets/slides/Deep Metric Learning.pptx">slides</a>
+  notes:
+  readings:
+  - Mahmut KAYA, Hasan Şakir BİLGE </br>
+      <a href="/assets/reference/Deep Metric Learning.pdf" target="blank">Deep Metric Learning:A Survey</a>
+
+- date: 2021-10-26
+  title: >
+    <strong>End-to-End Simultaneous Learning of Single-particle Orientation</strong>    
+  video: <a href="https://youtu.be/BKGXr-SBxAg">video</a>
+  slides: <a href="/assets/slides/End-to-End Simultaneous Learning of Single-particle Orientation.pptx">slides</a>
+  notes:
+  readings:
+  - Youssef Nashed, Frederic Poitevin, Harshit Gupta, Geoffrey Woollard, Michael Kagan, Chuck Yoon, Daniel Ratner  </br>
+      <a href="/assets/reference/End-to-End learning orientation.pdf" target="blank">End-to-End Simultaneous Learning of Single-particle Orientation</a>
+
 - date: 2021-10-12
   title: >
     <strong>Phase-contrast imaging in the EM</strong>    
