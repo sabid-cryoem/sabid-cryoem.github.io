@@ -1,3 +1,13 @@
+- date: 2021-11-16
+  title: >
+    <strong>CryoGAN: A New Reconstruction Paradigm for Single-Particle Cryo-EM Via Deep Adversarial Learning</strong>    
+  video: <a href="https://youtu.be/laNfAxcsAeM">video</a>
+  slides: <a href="/assets/slides/cryoGAN.pdf">slides</a>
+  notes:
+  readings:
+  - Harshit Gupta , Michael T. McCann , Laurène Donati , Michael Unser </br>
+      <a href="/assets/reference/CryoGAN.pdf" target="blank">CryoGAN:A New Reconstruction Paradigm for Single-Particle Cryo-EM Via Deep Adversarial Learning</a>
+
 - date: 2021-10-26
   title: >
     <strong>Deep Metric Learning: A Survey</strong>    
