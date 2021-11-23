@@ -1,3 +1,15 @@
+- date: 2021-11-23
+  title: >
+    <strong>cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination</strong>    
+  video: <a href="https://youtu.be/luotmWZ4160">video</a>
+  slides: <a href="/assets/slides/cryosparc.pdf">slides</a>
+  notes:
+  readings:
+  - Ali Punjani, John L Rubinstein, David J Fleet, Marcus A Brubaker </br>
+      <a href="/assets/reference/cryosparc.pdf" target="blank">cryoSPARC:algorithms for rapid unsupervised cryo-EM structure determination</a>
+  - <a href="/assets/reference/supplementary_cryosparc.pdf" target="blank">supplementary</a>
+
+
 - date: 2021-11-16
   title: >
     <strong>CryoGAN: A New Reconstruction Paradigm for Single-Particle Cryo-EM Via Deep Adversarial Learning</strong>    
