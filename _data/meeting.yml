@@ -1,3 +1,13 @@
+- date: 2021-11-30
+  title: >
+    <strong>Estimation of Orientation and Camera Parameters from Cryo-Electron Microscopy Images with Variational Autoencoders and Generative Adversarial Networks </strong>    
+  video: <a href="https://youtu.be/tZ10rbgNNwE">video</a>
+  slides: <a href="/assets/slides/Estimate_NN.pptx">slides</a>
+  notes:
+  readings:
+  - Nina Miolane , Fred´ eric Poitevin , Yee-Ting Li</br>
+      <a href="/assets/reference/Estimation of Orientation and Camera Parameters from Cryo-Electron.pdf" target="blank">Estimation of Orientation and Camera Parameters from Cryo-Electron Microscopy Images with Variational Autoencoders and Generative Adversarial Networks</a>
+
 - date: 2021-11-23
   title: >
     <strong>cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination</strong>    
