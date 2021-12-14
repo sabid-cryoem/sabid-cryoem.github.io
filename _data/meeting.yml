@@ -1,3 +1,12 @@
+- date: 2021-12-14
+  title: >
+    <strong>Directly reconstructing principal components of 3D protein structure density map from 2D cryo-EM projection images by 2SDR method</strong>    
+  video: 
+  slides: <a href="/assets/slides/Directly reconstructing principal components of 3D protein structure density map from 2D cryo-EM projection images by 2SDR method.pptx">slides</a>
+  notes:
+  readings:
+
+
 - date: 2021-11-30
   title: >
     <strong>Estimation of Orientation and Camera Parameters from Cryo-Electron Microscopy Images with Variational Autoencoders and Generative Adversarial Networks </strong>    
