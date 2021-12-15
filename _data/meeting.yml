@@ -1,10 +1,21 @@
 - date: 2021-12-14
   title: >
     <strong>Directly reconstructing principal components of 3D protein structure density map from 2D cryo-EM projection images by 2SDR method</strong>    
-  video: 
+  video: <a href="https://youtu.be/H8rt1KRkXDA">video</a>
   slides: <a href="/assets/slides/Directly reconstructing principal components of 3D protein structure density map from 2D cryo-EM projection images by 2SDR method.pptx">slides</a>
   notes:
   readings:
+
+- date: 2021-12-07
+  title: >
+    <strong>Highly accurate protein structure prediction with AlphaFold</strong>    
+  video: 
+  slides: <a href="/assets/slides/alphafold.pptx">slides</a>
+  notes:
+  readings:
+  - DeepMind Group </br>
+      <a href="/assets/reference/Highly accurate protein structure prediction.pdf" target="blank">Highly accurate protein structure prediction with AlphaFold</a>
+  
 
 
 - date: 2021-11-30
