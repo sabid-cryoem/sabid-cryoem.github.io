@@ -1,3 +1,13 @@
+- date: 2021-12-28
+  title: >
+    <strong>Improved protein structure prediction using potentials from deep learning</strong>    
+  video: <a href="https://youtu.be/aEraLI50e7c">video</a>
+  slides: <a href="/assets/slides/Alphafold1.pptx">slides</a>
+  notes:
+  readings:
+  - DeepMind Group </br>
+      <a href="/assets/reference/Alphafold1.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
+  
 - date: 2021-12-21
   title: >
     <strong>DNA Base-calling project</strong>    
