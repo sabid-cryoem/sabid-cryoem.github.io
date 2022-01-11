@@ -1,3 +1,13 @@
+- date: 2022-01-11
+  title: >
+    <strong>Image formation modeling in cryo-electron microscopy</strong>    
+  video: <a href="https://youtu.be/UzCDO7Qeqkg">video</a>
+  slides: <a href="/assets/slides/cryoEMsimulators_ISS.pdf">slides</a>
+  notes:
+  readings:
+  - Miloš Vuloviс́, Raimond B.G. Ravelli, Lucas J. van Vliet, Abraham J. Koster, Ivan Laziс́,Uwe Lücken, Hans Rullgård, Ozan Öktem, Bernd Rieger </br>
+      <a href="/assets/reference/Image formation modeling in cryo-electron microscopy.pdf" target="blank">Image formation modeling in cryo-electron microscopy</a>
+  
 - date: 2021-12-28
   title: >
     <strong>Improved protein structure prediction using potentials from deep learning</strong>    
