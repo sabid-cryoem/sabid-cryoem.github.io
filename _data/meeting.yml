@@ -1,3 +1,67 @@
+- date: 2022-02-11
+  title: >
+    <strong>Supervised SUP</strong>    
+  video: <a href="https://youtu.be/bh4RekNZeH0">video</a>
+  slides: <a href="/assets/slides/2022_0210_學術討論會議.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-11
+  title: >
+    <strong>Toward defocus estimation per movie frame of cryo-EM</strong>    
+  video: <a href="https://youtu.be/p38XpS41bII">video</a>
+  slides: <a href="/assets/slides/11022022_presentation_workshop_ISS.pdf">slides</a>
+  notes:
+  readings:
+
+  - date: 2022-02-11
+  title: >
+    <strong>Directly reconstructing principal components of 3D protein structure density map from 2D cryo-EM projection images by 2SDR method</strong>    
+  video: <a href="https://youtu.be/-oZatygz6Ow">video</a>
+  slides: <a href="/assets/slides/">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-11
+  title: >
+    <strong>The mobility of transcription factor TFIIF revealed by CryoEM </strong>    
+  video: <a href="https://youtu.be/t5goVB5SPN0">video</a>
+  slides: <a href="/assets/slides/Mobility of TFIIF_v2.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-10
+  title: >
+    <strong>Improved protein structure prediction using potentials from deep learning</strong>    
+  video: <a href="https://youtu.be/xQlzPuYETh0">video</a>
+  slides: <a href="/assets/slides/2022_0210_學術討論會議.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-10
+  title: >
+    <strong>Perturbation Theory for Cross Data Matrix-based PCA</strong>    
+  video: <a href="https://youtu.be/qcP_axk3lNE">video</a>
+  slides: <a href="/assets/slides/picos-cdm.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-10
+  title: >
+    <strong>Study of Single Particle 3D Reconstruction in cryoEM</strong>    
+  video: <a href="https://youtu.be/Ct32GpBUl-k">video</a>
+  slides: <a href="/assets/slides/Study of Single Particle 3D Reconstruction in cryoEM.pdf">slides</a>
+  notes:
+  readings:
+
+- date: 2022-02-10
+  title: >
+    <strong>Deep Generative Modeling for Volume Reconstruction in Cryo-Electron Microscopy</strong>    
+  video: <a href="https://youtu.be/QOHgrcvow7U">video</a>
+  slides: <a href="/assets/slides/3D_Overview.pptx">slides</a>
+  notes:
+  readings:
+
 - date: 2022-01-11
   title: >
     <strong>Image formation modeling in cryo-electron microscopy</strong>    
