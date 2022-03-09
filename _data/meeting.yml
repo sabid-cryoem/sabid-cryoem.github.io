@@ -6,8 +6,9 @@
   notes:
   readings:
    - DeepMind Group </br>
-      <a href="/assets/reference/Alphafold1.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
-      <a href=""/assets/reference/Alphafold2_Supplementary information.pdf" target="blank">Supplementary</a>
+      <a href="/assets/reference/Highly accurate protein structure prediction.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
+      </br>
+      <a href="/assets/reference/Alphafold2_Supplementary information.pdf" target="blank">Supplementary</a>
 
 - date: 2022-02-11
   title: >
@@ -91,7 +92,7 @@
   notes:
   readings:
   - DeepMind Group </br>
-      <a href="/assets/reference/Alphafold1.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
+      <a href="/assets/reference/alphafold1.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
   
 - date: 2021-12-21
   title: >
