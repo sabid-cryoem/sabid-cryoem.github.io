@@ -1,13 +1,13 @@
 - date: 2022-03-08
   title: >
-    <strong>Supervised SUP</strong>    
+    <strong>Highly accurate protein structure prediction</strong>    
   video: <a href="https://youtu.be/sOmj-sfBA08">video</a>
   slides: <a href="/assets/slides/2022_0308_AlphaFold2.pptx">slides</a>
   notes:
   readings:
    - DeepMind Group </br>
-      <a href="Highly accurate protein structure prediction.pdf" target="blank">Highly accurate protein structure prediction</a>
-      <a href="Alphafold2_Supplementary information.pdf" target="blank">Supplementary</a>
+      <a href="/assets/reference/Alphafold1.pdf" target="blank">Improved protein structure prediction using potentials from deep learning</a>
+      <a href=""/assets/reference/Alphafold2_Supplementary information.pdf" target="blank">Supplementary</a>
 
 - date: 2022-02-11
   title: >
