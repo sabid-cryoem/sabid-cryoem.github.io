@@ -1,3 +1,14 @@
+- date: 2022-03-15
+  title: >
+    <strong>Centering noisy image with application to Cryo-EM</strong>    
+  video: <a href="https://youtu.be/FquN6OjlUq4">video</a>
+  slides: <a href="/assets/slides/Centering noisy image with application to Cryo-EM.pdf">slides</a>
+  notes:
+  readings:
+   - DeepMind Group </br>
+      <a href="/assets/reference/Centering noisy image with application to Cryo-EM.pdf" target="blank">Centering noisy image with application to Cryo-EM</a>
+
+
 - date: 2022-03-08
   title: >
     <strong>Highly accurate protein structure prediction</strong>    
