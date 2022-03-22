@@ -1,3 +1,14 @@
+- date: 2022-03-22
+  title: >
+    <strong>Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms</strong>    
+  video: <a href="https://youtu.be/L1XeGaiPN6Y">video</a>
+  slides: <a href="/assets/slides/Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms.pdf">slides</a>
+  notes:
+  readings:
+   - Paul Joubert1, Michael Habeck </br>
+      <a href="/assets/reference/Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms.pdf" target="blank">Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms</a>
+      
+
 - date: 2022-03-15
   title: >
     <strong>Centering noisy image with application to Cryo-EM</strong>    
@@ -5,7 +16,7 @@
   slides: <a href="/assets/slides/Centering noisy image with application to Cryo-EM.pdf">slides</a>
   notes:
   readings:
-   - DeepMind Group </br>
+   - Ayelet Heimowitz, Nir Sharon, Amit Singer </br>
       <a href="/assets/reference/Centering noisy image with application to Cryo-EM.pdf" target="blank">Centering noisy image with application to Cryo-EM</a>
 
 
