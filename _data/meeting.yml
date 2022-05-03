@@ -1,3 +1,11 @@
+- date: 2022-05-03
+  title: >
+    <strong>Pytorch workshop</strong>    
+  video: <a href="https://youtu.be/LnNkM8kB4_U">video</a>
+  slides: <a href="https://colab.research.google.com/drive/1M5MH8sFznONIIsO6v_UBPfHDpgoMg7S3?usp=sharing">tutorial</a>
+  notes:
+  readings:
+
 - date: 2022-04-19
   title: >
     <strong>Deep learning of elastic 3D shapes for cryo electron microscopy analysis of continuous conformational changes of biomolecules </strong>    
