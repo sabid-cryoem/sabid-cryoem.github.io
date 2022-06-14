@@ -1,3 +1,27 @@
+- date: 2022-06-14
+  title: >
+    <strong>Introduction of Hamiltonian Monte Carlo</strong>    
+  video: <a href="https://youtu.be/vpK1Cm-HtKc">video</a>
+  slides: <a href="/assets/slides/HMC.pptx">slides</a>
+  notes:
+  readings:
+
+- date: 2022-06-07
+  title: >
+    <strong>Prof.Ting-Li Chen's lecture about MCMC</strong>    
+  video: <a href="https://youtu.be/Uw37tjiROaA">video</a>
+  slides: 
+  notes:
+  readings:
+
+- date: 2022-05-31
+  title: >
+    <strong>Bayesian Random Tomography of Particle Systems</strong>    
+  video: <a href="https://youtu.be/r8DjwvLfKWg">video</a>
+  slides: <a href="/assets/slides/20220531report_YuHsiang.pdf">slides</a>
+  notes:
+  readings:
+
 - date: 2022-05-03
   title: >
     <strong>Pytorch workshop</strong>    
@@ -31,7 +55,7 @@
   slides: <a href="/assets/slides/Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms.pdf">slides</a>
   notes:
   readings:
-   - Paul Joubert1, Michael Habeck </br>
+   - Paul Joubert, Michael Habeck </br>
       <a href="/assets/reference/Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms.pdf" target="blank">Bayesian Inference of Initial Models in Cryo-Electron Microscopy Using Pseudo-atoms</a>
       
 
