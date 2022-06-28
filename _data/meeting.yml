@@ -1,3 +1,13 @@
+- date: 2022-06-28
+  title: >
+    <strong>Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</strong>    
+  video: <a href="https://youtu.be/sl7AbZucXjY">video</a>
+  slides: <a href="/assets/slides/Zernike.pptx">slides</a>
+  notes:
+  readings:
+  - David Herreros, Roy R. Lederman, James Krieger, Amaya Jiménez-Moreno, Marta Martínez, David Myška, David Strelak, Jiri Filipovic, Ivet Bahar, Jose Maria Carazoa, Carlos Oscar S. Sancheza </br>
+      <a href="/assets/reference/Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials.pdf" target="blank">Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</a>
+
 - date: 2022-06-14
   title: >
     <strong>Introduction of Hamiltonian Monte Carlo</strong>    
@@ -5,6 +15,12 @@
   slides: <a href="/assets/slides/HMC.pptx">slides</a>
   notes:
   readings:
+   - Michael Betancourt </br>
+      <a href="/assets/reference/A Conceptual Introduction to Hamiltonian Monte Carlo.pdf" target="blank">A Conceptual Introduction to Hamiltonian Monte Carlo</a>
+   - Radford M. Neal </br>
+      <a href="/assets/reference/MCMC using Hamiltonian dynamics.pdf" target="blank">MCMC using Hamiltonian dynamics</a>
+     
+      
 
 - date: 2022-06-07
   title: >
