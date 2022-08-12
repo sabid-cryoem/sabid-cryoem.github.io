@@ -1,3 +1,15 @@
+- date: 2022-06-28_test
+  title: >
+    <strong>Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</strong>    
+  video: <a href="https://youtu.be/sl7AbZucXjY">video</a>
+  slides: <a href="/assets/slides/Zernike.pptx">slides</a>
+  notes:
+  readings:
+  - David Herreros, Roy R. Lederman, James Krieger, Amaya Jiménez-Moreno, Marta Martínez, David Myška, David Strelak, Jiri Filipovic, Ivet Bahar, Jose Maria Carazoa, Carlos Oscar S. Sancheza </br>
+      <a href="/assets/reference/Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials.pdf" target="blank">Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</a>
+
+
+
 - date: 2022-06-28
   title: >
     <strong>Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</strong>    
