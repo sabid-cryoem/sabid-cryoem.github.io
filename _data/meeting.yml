@@ -1,12 +1,12 @@
-- date: 2022-06-28_test
+- date: 2022-11-15
   title: >
-    <strong>Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</strong>    
-  video: <a href="https://youtu.be/sl7AbZucXjY">video</a>
-  slides: <a href="/assets/slides/Zernike.pptx">slides</a>
+    <strong> Iterative Elastic 3D-to-2D Alignment Method Using Normal Modes for Studying Structural Dynamics of Large Macromolecular Complexe</strong>    
+  video: <a href="">https://youtu.be/hZTUqETY6UQ'>video</a>
+  slides: <a href="/assets/slides/20221115report_YuHsiang.pdf">slides</a>
   notes:
   readings:
-  - David Herreros, Roy R. Lederman, James Krieger, Amaya Jiménez-Moreno, Marta Martínez, David Myška, David Strelak, Jiri Filipovic, Ivet Bahar, Jose Maria Carazoa, Carlos Oscar S. Sancheza </br>
-      <a href="/assets/reference/Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials.pdf" target="blank">Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</a>
+  - </br> Jin, Q., Sorzano, C. O. S., De La Rosa-Trevín, J. M., Bilbao-Castro, J. R., Núñez-Ramírez, R., Llorca, O., Tama, F. and Jonić, S.
+      <a href="/assets/reference/Iterative Elastic 3D-to-2D Alignment Method Using Normal Modes for Studying Structural Dynamics of Large Macromolecular Complexe.pdf" target="blank">Iterative Elastic 3D-to-2D Alignment Method Using Normal Modes for Studying Structural Dynamics of Large Macromolecular Complexe</a>
 
 
 
