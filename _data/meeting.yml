@@ -1,5 +1,13 @@
 -
-
+date: 2022-12-22
+  title: >
+    <strong> Measurement of atom resolvability in cryo-EM maps with Q-scores</strong>    
+  video: <a href="https://youtu.be/2lKrRtp_ptY">video</a>
+  slides: <a href="/assets/slides/2022_1222_Qscore.pptx">slides</a>
+  notes:
+  readings:
+  - Pintilie, G., Zhang, K., Su, Z., Li, S., Schmid, M. F. and Chiu, W. </br>
+      <a href="/assets/reference/Q-score.pdf" target="blank">Measurement of atom resolvability in cryo-EM maps with Q-scores</a>
 
  date: 2022-11-15
   title: >
