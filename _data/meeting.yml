@@ -1,3 +1,15 @@
+- date: 2022-12-27
+  title: >
+    <strong> A fifth of the protein world: Rossmann-like proteins as an evolutionarily successful structural unit</strong>    
+  video: <a href="https://youtu.be/CgfnoKSjTuI">video</a>
+  slides: <a href="/assets/slides/20221220-Rossmann-Fold.pptx">slides</a>
+  notes:
+  readings:
+  - Kirill E. Medvedev, Lisa N. Kinch, R. Dustin Schaeffer, Jimin Pei and Nick V. Grishin </br>
+      <a href="/assets/reference/nihms-1658733.pdf" target="blank"> A fifth of the protein world Rossmann-like proteins as an evolutionarily successful structural unit</a>
+
+
+
 - date: 2022-12-22
   title: >
     <strong> Measurement of atom resolvability in cryo-EM maps with Q-scores</strong>    
