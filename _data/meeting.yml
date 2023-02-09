@@ -1,9 +1,10 @@
 - date: test
   title: >
-    <strong> Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification </strong>    
+    <strong> Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification </strong> 
+    蕭卉倫   
   video: <a href="https://youtu.be/hO-K2o_A7zs">video</a>
   slides: <a href="/assets/slides/Contrastive.pptx">slides</a>
-  notes: ddddd
+  notes: 
   readings:
   - Peng Wang, Kai Han, Xiu-Shen Wei, Lei Zhang, Lei Wang</br>
       <a href="/assets/reference/Contrastive.pdf" target="blank"> Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification </a>
