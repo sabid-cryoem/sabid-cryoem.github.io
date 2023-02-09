@@ -1,7 +1,7 @@
 - date: test
   title: >
     <strong> Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification </strong>
-    <td>蕭卉倫<td>   
+    <tr>蕭卉倫<tr>   
   video: <a href="https://youtu.be/hO-K2o_A7zs">video</a>
   slides: <a href="/assets/slides/Contrastive.pptx">slides</a>
   notes: 
