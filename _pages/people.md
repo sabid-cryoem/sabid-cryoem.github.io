@@ -62,7 +62,12 @@ title: People
         </tr>
         <tr>
             <td>
-            ▪ Chun-Lu Huang
+            ▪ Yu-Hsiang Lien
+            </td>
+        </tr>
+        <tr>
+            <td>
+            ▪ Hsin-Hung Lin
             </td>
         </tr>
     </tbody>
@@ -73,17 +78,7 @@ title: People
     <tbody>
         <tr>
             <td>
-            ▪ Cheng-Yu Hung
-            </td>
-        </tr>
-        <tr>
-            <td>
             ▪ Huei-Lun Siao
-            </td>
-        </tr>
-        <tr>
-            <td>
-            ▪ Tzu-Hsuan Chang
             </td>
         </tr>
     </tbody>
@@ -100,6 +95,21 @@ title: People
         <tr>
             <td>
             ▪ Shao-Hsuan Wang
+            </td>
+        </tr>
+        <tr>
+            <td>
+            ▪ Chun-Lu Huang
+            </td>
+        </tr>
+        <tr>
+            <td>
+            ▪ Tzu-Hsuan Chang
+            </td>
+        </tr>
+        <tr>
+            <td>
+            ▪ Cheng-Yu Hung
             </td>
         </tr>
     </tbody>
