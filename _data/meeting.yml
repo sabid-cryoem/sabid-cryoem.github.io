@@ -1,4 +1,16 @@
 
+- date: 2023-02-14
+  title: >
+    <strong> Cryo-EM reconstruction of Continuous Heterogeneity by Laplacian Spectral Volumes </strong> 
+    </br> 連昱翔      
+  video: <a href="https://youtu.be/ZkyVzSyc9Z8">video</a>
+  slides: <a href="/assets/slides/20230214report_YuHsiang.pdf">slides</a>
+  notes:
+  readings:
+  - Peng Wang, Kai Han, Xiu-Shen Wei, Lei Zhang, Lei Wang</br>
+      <a href="/assets/reference/20230214_cryoem.pdf" target="blank"> Cryo-EM reconstruction of Continuous Heterogeneity by Laplacian Spectral Volumes </a>
+
+
 - date: 2023-01-17
   title: >
     <strong> Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification </strong> 
