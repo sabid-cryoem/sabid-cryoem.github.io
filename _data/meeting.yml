@@ -1,5 +1,23 @@
 - date: 2023-03-28
   title: >
+    <strong>Single-sequence protein structure prediction using a language model and deep learning</strong>
+     </br> 林新閎  
+  video: <a href="https://youtu.be/GF2C8gtnYkk">video</a>
+  slides: <a href="/assets/slides/20230419.pptx">slides</a>
+  notes:
+  readings:
+  - Ratul Chowdhury, Nazim Bouatta, Surojit Biswas, Christina Floristean, Anant Kharka, Koushik Roy, Charlotte Rochereau et al. </br>
+      <a href="/assets/reference/s41587-022-01432-w.pdf" target="blank">Single-sequence protein structure prediction using a language model and deep learning</a>
+
+
+
+
+
+
+
+
+- date: 2023-03-28
+  title: >
     <strong>Approximating deformation fields for the analysis of continuous heterogeneity of biological macromolecules by 3D Zernike polynomials</strong>
      </br> 林思涵  
   video: <a href="https://youtu.be/WtayBL905T0">video</a>
