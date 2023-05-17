@@ -1,4 +1,20 @@
-- date: 2023-03-28
+- date: 2023-05-17
+  title: >
+    <strong>Single-sequence protein structure prediction using a language model and deep learning</strong>
+     </br> 連昱翔
+  video: <a href="https://youtu.be/yG-0zlgtZWc">video</a>
+  slides: <a href="/assets/slides/20230516report_YuHsiang.pptx">slides</a>
+  notes:
+  readings:
+  - Xiaogen Zhou, Yang Li, Chengxin Zhang, Wei Zheng, Guijun Zhang and Yang Zhang </br>
+      <a href="/assets/reference/Progressive_and_accurate_assembly_of_multi-domain_.pdf" target="blank">Single-sequence protein structure prediction using a language model and deep learning</a>
+
+
+
+
+
+
+- date: 2023-04-09
   title: >
     <strong>Single-sequence protein structure prediction using a language model and deep learning</strong>
      </br> 林新閎  
@@ -8,10 +24,6 @@
   readings:
   - Ratul Chowdhury, Nazim Bouatta, Surojit Biswas, Christina Floristean, Anant Kharka, Koushik Roy, Charlotte Rochereau et al. </br>
       <a href="/assets/reference/s41587-022-01432-w.pdf" target="blank">Single-sequence protein structure prediction using a language model and deep learning</a>
-
-
-
-
 
 
 
