@@ -3,11 +3,11 @@
    <strong>Day 3 ~ Beyond Single Particle Analysis: Prof. Carlos Oscar Sanchez Sorzano, Dr. Marcos Grangera, and Prof. Jose Maria Carazo, Dr. Greg Pintilie, Mr. Tom Goddard, Dr. Muyuan Chen</strong>
       </br>Theory and Practices - 3D visualization (ChimeraX) 
       </br>Lecture - Variability characterization</strong>  
-  video: <a href="https://youtu.be/N5E99t1YZFg">video-1</a>
-  video: <a href="https://youtu.be/rd53GGTf5yA">video-2</a>
+      </br> <a href="https://youtu.be/N5E99t1YZFg">video-1</a>、
+        <a href="https://youtu.be/rd53GGTf5yA">video-2</a>
       </br> Atomic modeling, Structure validation, Virtual drug screening, Open discussion 
-  video: <a href="https://youtu.be/UzibNi4diQQ">video-3</a>
-  video: <a href="https://youtu.be/A0KgsKLCB2I">video-4</a>
+         </br><a href="https://youtu.be/UzibNi4diQQ">video-3</a>、
+         <a href="https://youtu.be/A0KgsKLCB2I">video-4</a>
   notes:
   readings: 
 
@@ -18,14 +18,13 @@
   title: >
    <strong>Day 2 ~ Single Particle Analysis: Prof. Carlos Oscar Sanchez Sorzano, Dr. Marcos Grangera, and Prof. Jose Maria Carazo</strong>
      </br>Theory and Practices: Understanding the effects of the low SNR on the cryoEM images and the ways to reduce bias.  Introduction to the different softwares to be used in these sections, namely: Scipion, Xmipp, Relion, CryoSparc, Cryolo, GCTF, CCTFind4, GAutomatch, and Topaz</strong>  
-  video: <a href="https://youtu.be/jnqDntutyD8">video-1</a>
-  video: <a href="https://youtu.be/MZhWE0nSjE4">video-2</a>
+     </br> <a href="https://youtu.be/jnqDntutyD8">video-1</a>
+      <a href="https://youtu.be/MZhWE0nSjE4">video-2</a>、
       </br> Theory and Practices - Off the beaten path
       </br> - Beyond discrete classification - Continuous flexibility analysis (Zernikes, CryoDrgn, Normal Modes, and GMM+AI)
       </br> - Flexibility deblurring-like/resolvability increase approaches for flexible parts
       </br> - Structure validation (Validation server + MapQ)
-  video: <a href="https://youtu.be/ZzTaRhOeKew">video-3</a>
-  video: <a href="https://youtu.be/kF3WmeAZYd4">video-4</a>
+  </br>  <a href="https://youtu.be/ZzTaRhOeKew">video-3</a>、 <a href="https://youtu.be/kF3WmeAZYd4">video-4</a>
   notes:
   readings: 
   - 白板圖片
@@ -36,11 +35,11 @@
   title: >
    <strong>Day 1 ~ Single Particle Analysis:  Prof. Carlos Oscar Sanchez Sorzano, Dr. Marcos Grangera, and Prof. Jose Maria Carazo</strong>
      </br>Theory and Practices: Understanding the effects of the low SNR on the cryoEM images and the ways to reduce bias.  Introduction to the different softwares to be used in these sections, namely: Scipion, Xmipp, Relion, CryoSparc, Cryolo, GCTF, CCTFind4, GAutomatch, and Topaz</strong>  
-     <a href="https://youtu.be/vMlRW47MfGk">video-1</a>
-     <a href="https://youtu.be/iAoaLAdCNA0">video-2-1</a>
+    </br> <a href="https://youtu.be/vMlRW47MfGk">video-1</a>、
+     <a href="https://youtu.be/iAoaLAdCNA0">video-2-1</a>、
      <a href="https://youtu.be/iAoaLAdCNA0">video-2-2</a>
-      </br> Practical Exercise-  Micrograph processing, particle identification, initial map, angular refinement
-      <a href="https://youtu.be/IxyX-wbwTa8">video-2-2</a>
+     </br> Practical Exercise-  Micrograph processing, particle identification, initial map, angular refinement
+     <a href="https://youtu.be/IxyX-wbwTa8">video-2-2</a>
   notes:
   readings: 
   - 此會議因設備情況，並未完全錄製完整，下午部分只錄了一個小時左右
