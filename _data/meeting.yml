@@ -36,11 +36,11 @@
   title: >
    <strong>Day 1 ~ Single Particle Analysis:  Prof. Carlos Oscar Sanchez Sorzano, Dr. Marcos Grangera, and Prof. Jose Maria Carazo</strong>
      </br>Theory and Practices: Understanding the effects of the low SNR on the cryoEM images and the ways to reduce bias.  Introduction to the different softwares to be used in these sections, namely: Scipion, Xmipp, Relion, CryoSparc, Cryolo, GCTF, CCTFind4, GAutomatch, and Topaz</strong>  
-  video: <a href="https://youtu.be/vMlRW47MfGk">video-1</a>
-  video: <a href="https://youtu.be/iAoaLAdCNA0">video-2-1</a>
-  video: <a href="https://youtu.be/iAoaLAdCNA0">video-2-2</a>
+     <a href="https://youtu.be/vMlRW47MfGk">video-1</a>
+     <a href="https://youtu.be/iAoaLAdCNA0">video-2-1</a>
+     <a href="https://youtu.be/iAoaLAdCNA0">video-2-2</a>
       </br> Practical Exercise-  Micrograph processing, particle identification, initial map, angular refinement
-  video: <a href="https://youtu.be/IxyX-wbwTa8">video-2-2</a>
+      <a href="https://youtu.be/IxyX-wbwTa8">video-2-2</a>
   notes:
   readings: 
   - 此會議因設備情況，並未完全錄製完整，下午部分只錄了一個小時左右
