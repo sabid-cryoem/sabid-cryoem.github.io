@@ -18,13 +18,13 @@
   title: >
    <strong>Day 2 ~ Single Particle Analysis: Prof. Carlos Oscar Sanchez Sorzano, Dr. Marcos Grangera, and Prof. Jose Maria Carazo</strong>
      </br>Theory and Practices: Understanding the effects of the low SNR on the cryoEM images and the ways to reduce bias.  Introduction to the different softwares to be used in these sections, namely: Scipion, Xmipp, Relion, CryoSparc, Cryolo, GCTF, CCTFind4, GAutomatch, and Topaz</strong>  
-     </br> <a href="https://youtu.be/jnqDntutyD8">video-1</a>,
+      </br> <a href="https://youtu.be/jnqDntutyD8">video-1</a>,
       <a href="https://youtu.be/MZhWE0nSjE4">video-2</a>
       </br> Theory and Practices - Off the beaten path
       </br> - Beyond discrete classification - Continuous flexibility analysis (Zernikes, CryoDrgn, Normal Modes, and GMM+AI)
       </br> - Flexibility deblurring-like/resolvability increase approaches for flexible parts
       </br> - Structure validation (Validation server + MapQ)
-  </br>  <a href="https://youtu.be/ZzTaRhOeKew">video-3</a>、 <a href="https://youtu.be/kF3WmeAZYd4">video-4</a>
+      </br>  <a href="https://youtu.be/ZzTaRhOeKew">video-3</a>, <a href="https://youtu.be/kF3WmeAZYd4">video-4</a>
   notes:
   readings: 
   - 白板圖片
