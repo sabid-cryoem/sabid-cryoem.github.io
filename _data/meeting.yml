@@ -1,3 +1,16 @@
+- date: 2023-09-27
+  title: >
+    <strong>Improvement of Cryo-EM Maps by Simultaneous Local and Non-local Deep Learning</strong>
+     </br> 連昱翔
+  video: <a href="https://youtu.be/zOyStl5Sc_Y">video</a>
+  slides: <a href="/assets/slides/20230912report_YuHsiang.pdf">slides</a>
+  notes:
+  readings:
+  - Jiahua He, Tao Li and Sheng-You Huang </br>
+      <a href="/assets/reference/s41467-023-39031-1.pdf" target="blank">Improvement of cryo-EM maps by simultaneous local and non-local deep learning</a>
+
+
+
 - date: 2023-06-27
   title: >
     <strong> Nonlinear data visualization</strong>
