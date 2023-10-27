@@ -17,7 +17,7 @@ Moment of Inertia (MoI) as a 2 by 2 matrix I containing the central moments with
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MOI.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MOI2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
