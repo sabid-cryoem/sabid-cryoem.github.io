@@ -2,13 +2,25 @@
 layout: about
 permalink: /
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
-description: 2021 • Institute of Statistical Science, Academia Sinica
+description: 2023 • Institute of Statistical Science, Academia Sinica
 logo: AcademiaSinica.png
 news: true
 ---
 
 ### A Speedy and robust Cryo-EM processing Platform (ASCEP)
 With the recent advance in the equipment together with GPU-accelerated computations and enhancement of algorithms, Cryo-electron microscopy (cryo-EM) has become a mainstream technique to solve structures of macro-molecules at near-atomic resolution. However, further extending to atomic resolution has been hindered by both the noisy nature of the recorded images and the heterogeneity of samples. Enhancement of the signal-to-noise Ratio (SNR) and differentiate the conformation states of these images are thus the keys for solving higher resolution 3D structure. Here, a Speedy and robust Cryo-EM processing Platform (ASCEP) based on Scipion developed by our team is proposed. It contains a cleaner interface and provides novel algorithms from our team.
+
+
+
+### Rapid Alignment with Moment of Inertia
+Moment of Inertia (MoI) as a 2 by 2 matrix I containing the central moments with order two, whose first eigenvector corresponds to the object’s orientation, has been a popular tool for image alignment (Jan, Suk and Zitová, 2016). However, the low SNR nature of cryo-EM images has prevented the direct application of MoI. We proposed an algorithm called Rapid Alignment with Moment of Inertia (rAMI), and we show that it can be widely applicable to the current alignment steps in cryo-EM. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MOI.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
 
 ### Dimension Reduction and Image Clustering
 In contrast to X-ray crystallography, cryo-EM does not need crystals but can view dispersed biological molecules embedded in a thin layer of vitreous ice. The electron beam transmitting through the specimen generates two-dimensional projections of these freely oriented molecules and the 3-D structure can be obtained by back projections provided the angular relationships among them are determined.
