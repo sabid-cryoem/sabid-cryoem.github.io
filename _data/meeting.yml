@@ -1,3 +1,20 @@
+
+- date: 2023-10-31
+  title: >
+    <strong>Automatic sparse PCA for high-dimensional data</strong>
+     </br> 林思涵
+  video: <a href="https://youtu.be/cNNd8qugYlQ">video</a>
+  slides: <a href="/assets/slides/2023_1031_Automatic-sparse-PCA-for-high-dimensional-data.pptx">slides</a>
+  notes:
+  readings:
+  - Kazuyoshi Yata and Makoto Aoshima </br>
+      <a href="/assets/reference/2209.14891.pdf" target="blank">Automatic sparse PCA for high-dimensional data</a>
+
+
+
+
+
+
 - date: 2023-09-27
   title: >
     <strong>Improvement of Cryo-EM Maps by Simultaneous Local and Non-local Deep Learning</strong>
