@@ -94,19 +94,19 @@ title: People
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
-            <td>       Institute of Statistical Science, Academia Sinica</td>
+            <td>     Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
-            <td>       Institute of Statistical Science, Academia Sinica</td>
+            <td>     Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>       Institute of Statistical Science, Academia Sinica</td>
+            <td>     nstitute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
-            <td>       Institute of Biological Chemistry, Academia Sinica</td>
+            <td>     Institute of Biological Chemistry, Academia Sinica</td>
         </tr>
     </tbody>
 </table>
