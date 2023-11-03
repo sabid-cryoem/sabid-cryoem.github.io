@@ -25,29 +25,9 @@ title: People
             <td>Institute of Statistical Science</td>
         </tr>
         <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
-            <td>Colaborative PI</td>
-            <td>Institute of Statistical Science</td>
-        </tr>
-        <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
-            <td>Colaborative PI</td>
-            <td>Institute of Statistical Science</td>
-        </tr>
-        <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>Colaborative PI</td>
-            <td>Institute of Statistical Science</td>
-        </tr>
-        <tr>
             <td><a href="https://www.chem.sinica.edu.tw/faculty/index.php?piName=weihau">Wei-Hau Chang</a></td>
             <td>Colaborative PI</td>
             <td>Institute of Chemistry</td>
-        </tr>
-        <tr>
-            <td><a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
-            <td>Colaborative PI</td>
-            <td>Institute of Biological Chemistry</td>
         </tr>
     </tbody>
 </table>
@@ -111,6 +91,26 @@ title: People
             <td>
             ▪ Cheng-Yu Hung
             </td>
+        </tr>
+        <tr>
+            <td><a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
+            <td>Colaborative PI</td>
+            <td>Institute of Statistical Science</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
+            <td>Colaborative PI</td>
+            <td>Institute of Statistical Science</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
+            <td>Colaborative PI</td>
+            <td>Institute of Statistical Science</td>
+        </tr>
+        <tr>
+            <td><a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
+            <td>Colaborative PI</td>
+            <td>Institute of Biological Chemistry</td>
         </tr>
     </tbody>
 </table>
