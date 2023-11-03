@@ -93,15 +93,15 @@ title: People
             </td>
         </tr>
         <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/syhuang/">▪ Su-Yun Huang</a></td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
             <td>Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/tlchen/">▪ Ting-Li Chen</a></td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
             <td>Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/yao/">▪ Yi-Ching Yao</a></td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
             <td>Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
