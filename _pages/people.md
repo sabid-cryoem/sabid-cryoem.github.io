@@ -64,6 +64,18 @@ title: People
     </tbody>
 </table>
 <br>
+<br>
+<h4 class="post-title"><u>Student</u></h4>
+<table>
+    <tbody>
+        <tr>
+            <td>
+            ▪ Shu-Cheng Zheng
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
 <h4 class="post-title"><u>Former Members</u></h4>
 <table>
     <tbody>
@@ -102,7 +114,7 @@ title: People
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>     nstitute of Statistical Science, Academia Sinica</td>
+            <td>     Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
