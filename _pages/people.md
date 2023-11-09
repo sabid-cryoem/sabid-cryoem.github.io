@@ -81,11 +81,11 @@ title: People
     <tbody>
         <tr>
             <td>▪ <a href="https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw">Szu-Chi Chung</a></td>
-            <td>     Department of Applied Mathematics, National Sun Yet-sen University</td>
+            <td>       Department of Applied Mathematics, National Sun Yet-sen University</td>
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.ncu.edu.tw/index.php/faculty/more/312">Shao-Hsuan Wang</a></td>
-            <td>     Graduate Insitute of Statistics, National Central University</td>
+            <td>       Graduate Insitute of Statistics, National Central University</td>
         </tr>
         <tr>
             <td>
@@ -104,19 +104,19 @@ title: People
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
-            <td>     Institute of Statistical Science, Academia Sinica</td>
+            <td>       Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
-            <td>     Institute of Statistical Science, Academia Sinica</td>
+            <td>       Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>     Institute of Statistical Science, Academia Sinica</td>
+            <td>       Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>
-            <td>     Institute of Biological Chemistry, Academia Sinica</td>
+            <td>       Institute of Biological Chemistry, Academia Sinica</td>
         </tr>
     </tbody>
 </table>
