@@ -84,10 +84,8 @@ title: People
             <td>     Department of Applied Mathematics, National Sun Yet-sen University</td>
         </tr>
         <tr>
-            <td>
             <td>▪ <a href="http://www.stat.ncu.edu.tw/index.php/faculty/more/312">Shao-Hsuan Wang</a></td>
             <td>     Graduate Insitute of Statistics, National Central University</td>
-            </td>
         </tr>
         <tr>
             <td>
