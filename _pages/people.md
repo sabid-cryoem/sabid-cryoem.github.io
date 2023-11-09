@@ -80,13 +80,13 @@ title: People
 <table>
     <tbody>
         <tr>
-            <td>
-            ▪ Szu-Chi Chung
-            </td>
+            <td>▪ <a href="https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw">Szu-Chi Chung</a></td>
+            <td>     Department of Applied Mathematics, National Sun Yet-sen University</td>
         </tr>
         <tr>
             <td>
-            ▪ Shao-Hsuan Wang
+            <td>▪ <a href="http://www.stat.ncu.edu.tw/index.php/faculty/more/312">Shao-Hsuan Wang</a></td>
+            <td>     Graduate Insitute of Statistics, National Central University</td>
             </td>
         </tr>
         <tr>
