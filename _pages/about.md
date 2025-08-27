@@ -212,14 +212,16 @@ and other applications, such as brain network development in infants.</p>
 
 
 
-  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
+ ▪  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
   Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes
   </a>  <strong>(Methods (2019))</strong>
-</br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0047259X1730492X">
+<br/>
+   ▪<a href="https://www.sciencedirect.com/science/article/pii/S0047259X1730492X">
 The generalized degrees of freedom of multilinear principal component analysis
   </a>
 <strong>(Journal of Multivariate Analysis (2019))</strong>
+
+
 <!--
  <h3>
   <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
@@ -228,9 +230,7 @@ The generalized degrees of freedom of multilinear principal component analysis
 </h3>
 <strong>(Methods (2019))</strong>
 <p>We developed a dimension reduction algorithm to analyze the tensor structure time traced smFRET data. Our method successful detected all the rare signals.
- </p> -->
-
-<!--
+ </p>
  <h3>
   <a href="https://www.sciencedirect.com/science/article/pii/S0047259X1730492X">
 The generalized degrees of freedom of multilinear principal component analysis
