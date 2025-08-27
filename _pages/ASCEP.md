@@ -67,5 +67,23 @@ Meaningful 2D clustering depends on good image alignment, for which all possible
 
 
 
+<h3>Software</h3>
+
+ ▪ <strong> ASCEP </strong> : Cryo-EM analysis software that includes <strong> Pre-Pro </strong> and <strong> 2SDR </strong> . Downloaded is available <a href="https://docs.google.com/forms/d/e/1FAIpQLSfITYqUDG3SSN5p0gcikULWgNfiSpO-Zmf-wr9C-_zrbBWvvQ/viewform">
+   here
+  </a>.
+ ▪ <strong> Cryo-RALib</strong> : A library that for accelerating alignment which is under development. The current version can be found <a href="https://github.com/phonchi/Cryo-RAlib">
+   here
+  </a>.
+
+
+  <h3>Resources</h3>
+   ▪ <strong> Resource</strong> : Check out for other computational cryo-EM methods <a href="https://github.com/phonchi/Computational-CryoEM">
+   here
+  </a>.
+
+
+
+
 
 
