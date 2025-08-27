@@ -9,15 +9,14 @@ news: true
 
 <h3>
   <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">
-    A Hierarchical Robust Linear Model for Cryo-EM Map Analysis
-  </a>
+    A Hierarchical Robust Linear Model for Cryo-EM Map Analysis</a>
 </h3>
 <strong> (bioRxiv (2025)) </strong>
 <p>Cryo-electron microscopy (cryo-EM) has become a pivotal tool for determining the atomic structures of biological macromolecules. In this paper, we propose a hierarchical robust linear (HRL) model to estimate key atom-specific parameters—specifically the amplitude and width of Gaussian functions—that are utilized to assess the consistency between paired cryo-EM maps and their corresponding atomic models, or to improve their refinement. Our HRL modeling leverages minimum density power divergence estimates (MDPDE) to construct a heteroscedastic framework that could potentially mitigate the influence of outliers. We demonstrate the robustness of our method through both simulation studies and real data applications, showing its effectiveness in reducing the impact of outliers and ensuring reliable parameter estimates. Applying our HRL model to analyze real cryo-EM data from human apoferritin (PDB ID: 6Z6U, EMDB ID: 11103) reveals that the Gaussian parameters remain stable across most amino acids, with nitrogen atoms consistently exhibiting lower amplitude and width estimates than expected based on the commonly used Gaussian modeling. These findings highlight the need for a more systematic analysis of paired cryo-EM map and atomic model from the EMDB and PDB to further understand the atom-specific properties in cryo-EM data. </p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HRL.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/JRL.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
@@ -32,11 +31,87 @@ news: true
 <strong> (Journal of Cell Biology (2025)) </strong>
 <p>Cell division in Escherichia coli is intricately regulated by the MinD and MinE proteins, which form oscillatory waves between cell poles. These waves manifest as concentration gradients that reduce MinC inhibition at the cell center, thereby influencing division site placement. This study explores the plasticity of the MinD gradients resulting from the interdependent interplay between molecular interactions and diffusion in the system. Through live cell imaging, we observed that as cells elongate, the gradient steepens, the midcell concentration decreases, and the oscillation period stabilizes. A one-dimensional model investigates kinetic rate constants representing various molecular interactions, effectively recapitulating our experimental findings. The model reveals the nonlinear dynamics of the system and a dynamic equilibrium among these constants, which underlie variable concentration gradients in growing cells. This study enhances quantitative understanding of MinD oscillations within the cellular environment. Furthermore, it emphasizes the fundamental role of concentration gradients in cellular processes.</p>
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
+
+<h3>
+  <a href="https://www.nature.com/articles/s41598-024-62045-8">
+    Use of Phase Plate cryo-EM Reveals Conformation Diversity of Therapeutic IgG with 50 kDa Fab Fragment Resolved below 6 Å
+  </a>
+</h3>
+<strong> (Scientific Reports (2024)) </strong>
+<p>While cryogenic electron microscopy (cryo-EM) is fruitfully used for harvesting high-resolution structures of sizable macromolecules, its application to small or flexible proteins composed of small domains like immunoglobulin (IgG) remain challenging. Here, we applied single particle cryo-EM to Rituximab, a therapeutic IgG mediating anti-tumor toxicity, to explore its solution conformations. We found Rituximab molecules exhibited aggregates in cryo-EM specimens contrary to its solution behavior, and utilized a non-ionic detergent to successfully disperse them as isolated particles amenable to single particle analysis. As the detergent adversely reduced the protein-to-solvent contrast, we employed phase plate contrast to mitigate the impaired protein visibility. Assisted by phase plate imaging, we obtained a canonical three-arm IgG structure with other structures displaying variable arm densities co-existing in solution, affirming high flexibility of arm-connecting linkers. Furthermore, we showed phase plate imaging enables reliable structure determination of Fab to sub-nanometer resolution from ab initio, yielding a characteristic two-lobe structure that could be unambiguously docked with crystal structure. Our findings revealed conformation diversity of IgG and demonstrated phase plate was viable for cryo-EM analysis of small proteins without symmetry. This work helps extend cryo-EM boundaries, providing a valuable imaging and structural analysis framework for macromolecules with similar challenging features.</p>
+
+<!--
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>  -->
+
+
+
+<h3>
+  <a href="https://www.nature.com/articles/s41467-023-40672-5">
+    A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
+  </a>
+</h3>
+<strong> (Nature Communications (2024)) </strong>
+<p>ATP-dependent RAD51 recombinases play an essential role in eukaryotic homologous recombination by catalyzing a four-step process: 1) formation of a RAD51 single-filament assembly on ssDNA in the presence of ATP, 2) complementary DNA strand-exchange, 3) ATP hydrolysis transforming the RAD51 filament into an ADP-bound disassembly-competent state, and 4) RAD51 disassembly to provide access for DNA repairing enzymes. Of these steps, filament dynamics between the ATP- and ADP-bound states, and the RAD51 disassembly mechanism, are poorly understood due to the lack of near-atomic-resolution information of the ADP-bound RAD51–DNA filament structure. We report the cryo-EM structure of ADP-bound RAD51–DNA filaments at 3.1 Å resolution, revealing a unique RAD51 double-filament that wraps around ssDNA. Structural analysis, supported by ATP-chase and time-resolved cryo-EM experiments, reveals a collapsing mechanism involving two four-protomer movements along ssDNA for mechanical transition between RAD51 single- and double-filament without RAD51 dissociation. This mechanism enables elastic change of RAD51 filament length during structural transitions between ATP- and ADP-states.</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APT.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+
+
+<h3>
+  <a href="https://www3.stat.sinica.edu.tw/statistica/J33N21/J33N2129/J33N2129.html">
+   Uncertainty Quantiﬁcation in Dynamic Image Reconstruction with Applications to Cryo-EM
+  </a>
+</h3>
+<strong> (Statistica Sinica (2023)) </strong>
+<p>Here, we propose combining empirical Bayes modeling with recent advances in Markov chain Monte Carlo filters for hidden Markov models. In doing
+so, we address long-standing problems in the reconstruction of 3D images, with
+uncertainty quantification, from noisy 2D pixels in cryogenic electron microscopy
+and other applications, such as brain network development in infants.</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/SS2023.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+
+
+<h3>
+  <a href="https://doi.org/10.1101/2022.11.21.517443">
+   RE2DC: A Robust and Efficient 2D Classifier with Visualization for Processing Massive and Heterogeneous Cryo-EM Data
+  </a>
+</h3>
+<strong> (bioRxiv(2022)) </strong>
+<p>Despite the fact that single particle cryo-EM has become a powerful method of structural biology, processing cryo-EM images are challenging due to the low SNR, high-dimension and un-label nature of the data. Selecting the best subset of particle images relies on 2D classification—a process that involves iterative image alignment and clustering. This process, however, represents a major time sink, particularly when the data is massive or overly heterogeneous. Popular approaches to this process often trade its robustness for efficiency. Here, we introduced a new unsupervised 2D classification method termed RE2DC. It is built upon a highly efficient variant of γ-SUP, a robust statistical cryo-EM clustering algorithm resistant to the attractor effect. To develop this efficient variant, we employed a tree-based approximation to reduce the computation complexity from O(N2) to O(N), with N as the number of images. In addition, we exploited t-SNE visualization to unveil the process of 2D classification. Our tests of RE2DC using various datasets demonstrate it is both robust and efficient, with the potential to reveal subtle structural intermediates. Using RE2DC to curate a dataset of sub-millions of COVID-19 spike particles picked from 3,511 movies only takes 8 hours, suggesting its capability of accelerating cryo-EM structural determination. Currently, RE2DC is available with both CPU and GPU versions, where the implementation only requires modest hardware resources.</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/RE2DC.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+
 
 
 <h3>
