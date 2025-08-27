@@ -112,6 +112,24 @@ and other applications, such as brain network development in infants.</p>
 
 
 
+<h3>
+  <a href="https://pubs.acs.org/doi/pdf/10.1021/jacs.1c04082">
+  Copper Centers in the Cryo-EM Structure of Particulate Methane Monooxygenase Reveal the Catalytic Machinery of Methane Oxidation
+  </a>
+</h3>
+<strong> (Journal of the American Chemical Society(2021)) </strong>
+<p>The particulate methane monooxygenase (pMMO) is the first enzyme in the C1 metabolic pathway in methanotrophic bacteria. As this enzyme converts methane into methanol efficiently near room temperature, it has become the paradigm for developing an understanding of this difficult C1 chemistry. pMMO is a membrane-bound protein with three subunits (PmoB, PmoA, and PmoC) and 12–14 coppers distributed among different sites. X-ray crystal structures that have revealed only three mononuclear coppers at three sites have neither disclosed the location of the active site nor the catalytic mechanism of the enzyme. Here we report a cyro-EM structure of holo-pMMO from Methylococcus capsulatus (Bath) at 2.5 Å, and develop quantitative electrostatic-potential profiling to scrutinize the nonprotein densities for signatures of the copper cofactors. Our results confirm a mononuclear CuI at the A site, resolve two CuIs at the B site, and uncover additional CuI clusters at the PmoA/PmoC interface within the membrane (D site) and in the water-exposed C-terminal subdomain of the PmoB (E clusters). These findings complete the minimal set of copper factors required for catalytic turnover of pMMO, offering a glimpse of the catalytic machinery for methane oxidation according to the chemical principles underlying the mechanism proposed earlier</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Copp.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+
+
 
 <h3>
   <a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2021.788308/full">
