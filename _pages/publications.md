@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: ASCEP
 permalink: /
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
 description: 2025 • Institute of Statistical Science, Academia Sinica
@@ -129,4 +129,5 @@ The generalized degrees of freedom of multilinear principal component analysis
 
 
 -->
+
 
