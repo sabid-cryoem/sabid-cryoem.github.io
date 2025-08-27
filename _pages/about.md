@@ -66,7 +66,7 @@ news: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image" style="width:520px; height:auto;"/>
     </div>
 </div>
 
@@ -194,6 +194,15 @@ and other applications, such as brain network development in infants.</p>
 
 
 
+  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
+  Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes
+  </a>  <strong>(Methods (2019))</strong>
+</br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0047259X1730492X">
+The generalized degrees of freedom of multilinear principal component analysis
+  </a>
+<strong>(Journal of Multivariate Analysis (2019))</strong>
+<!--
  <h3>
   <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
   Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes
@@ -201,10 +210,9 @@ and other applications, such as brain network development in infants.</p>
 </h3>
 <strong>(Methods (2019))</strong>
 <p>We developed a dimension reduction algorithm to analyze the tensor structure time traced smFRET data. Our method successful detected all the rare signals.
- </p>
+ </p> -->
 
-
-
+<!--
  <h3>
   <a href="https://www.sciencedirect.com/science/article/pii/S0047259X1730492X">
 The generalized degrees of freedom of multilinear principal component analysis
@@ -212,5 +220,5 @@ The generalized degrees of freedom of multilinear principal component analysis
 </h3>
 <strong>(Journal of Multivariate Analysis (2019))</strong>
 <p>Tensor data, such as image set, movie data, gene-environment interactions, or gene–gene interactions, have become a popular data format in many fields. Multilinear Principal Component Analysis (MPCA) has been recognized as an efficient dimension reduction method for tensor data analysis. However, a gratifying rank selection method for a general application of MPCA is not yet available. For example, both the Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC), arguably two of the most commonly used model selection methods, require more strict model assumptions when applying on the rank selection in MPCA.
- </p>
+ </p>   -->
 
