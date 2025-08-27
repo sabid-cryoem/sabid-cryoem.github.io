@@ -7,13 +7,19 @@ logo: AcademiaSinica.png
 news: true
 ---
 
-<h3>
-  <a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2021.788308/full">
-    Cryo-EM Analyses Permit Visualization of Structural Polymorphism of Biological Macromolecules
-  </a>
-</h3>
-<strong> (Frontiers in Bioinformatics (2021)) </strong>
-<p>The functions of biological macromolecules are often associated with conformational malleability of the structures. This phenomenon of chemically identical molecules with different structures is coined structural polymorphism. Conventionally, structural polymorphism is observed directly by structural determination at the density map level from X-ray crystal diffraction. Although crystallography approach can report the conformation of a macromolecule with the position of each atom accurately defined in it, the exploration of structural polymorphism and interpreting biological function in terms of crystal structures is largely constrained by the crystal packing. An alternative approach to studying the macromolecule of interest in solution is thus desirable. With the advancement of instrumentation and computational methods for image analysis and reconstruction, cryo-electron microscope (cryo-EM) has been transformed to be able to produce “in solution” structures of macromolecules routinely with resolutions comparable to crystallography but without the need of crystals. Since the sample preparation of single-particle cryo-EM allows for all forms co-existing in solution to be simultaneously frozen, the image data contain rich information as to structural polymorphism. The ensemble of structure information can be subsequently disentangled through three-dimensional (3D) classification analyses. In this review, we highlight important examples of protein structural polymorphism in relation to allostery, subunit cooperativity and function plasticity recently revealed by cryo-EM analyses, and review recent developments in 3D classification algorithms including neural network/deep learning approaches that would enable cryo-EM analyese in this regard. Finally, we brief the frontier of cryo-EM structure determination of RNA molecules where resolving the structural polymorphism is at dawn. </p>
+### A Speedy and robust Cryo-EM processing Platform (ASCEP)
+With the recent advance in the equipment together with GPU-accelerated computations and enhancement of algorithms, Cryo-electron microscopy (cryo-EM) has become a mainstream technique to solve structures of macro-molecules at near-atomic resolution. However, further extending to atomic resolution has been hindered by both the noisy nature of the recorded images and the heterogeneity of samples. Enhancement of the signal-to-noise Ratio (SNR) and differentiate the conformation states of these images are thus the keys for solving higher resolution 3D structure. Here, a Speedy and robust Cryo-EM processing Platform (ASCEP) based on Scipion developed by our team is proposed. It contains a cleaner interface and provides novel algorithms from our team.
+
+
+
+### Rapid Alignment with Moment of Inertia
+Moment of Inertia (MoI) as a 2 by 2 matrix I containing the central moments with order two, whose first eigenvector corresponds to the object’s orientation, has been a popular tool for image alignment (Jan, Suk and Zitová, 2016). However, the low SNR nature of cryo-EM images has prevented the direct application of MoI. We proposed an algorithm called Rapid Alignment with Moment of Inertia (rAMI), and we show that it can be widely applicable to the current alignment steps in cryo-EM. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MOI2.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
 
 <h3>
