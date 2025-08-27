@@ -8,15 +8,14 @@ news: true
 ---
 
 <h3>
-  <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">
-    A Hierarchical Robust Linear Model for Cryo-EM Map Analysis</a>
+  <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">A Hierarchical Robust Linear Model for Cryo-EM Map <br>Analysis</a>
 </h3>
 <strong style="display:inline;"> (bioRxiv (2025)) </strong>
 <p>Cryo-electron microscopy (cryo-EM) has become a pivotal tool for determining the atomic structures of biological macromolecules. In this paper, we propose a hierarchical robust linear (HRL) model to estimate key atom-specific parameters—specifically the amplitude and width of Gaussian functions—that are utilized to assess the consistency between paired cryo-EM maps and their corresponding atomic models, or to improve their refinement. Our HRL modeling leverages minimum density power divergence estimates (MDPDE) to construct a heteroscedastic framework that could potentially mitigate the influence of outliers. We demonstrate the robustness of our method through both simulation studies and real data applications, showing its effectiveness in reducing the impact of outliers and ensuring reliable parameter estimates. Applying our HRL model to analyze real cryo-EM data from human apoferritin (PDB ID: 6Z6U, EMDB ID: 11103) reveals that the Gaussian parameters remain stable across most amino acids, with nitrogen atoms consistently exhibiting lower amplitude and width estimates than expected based on the commonly used Gaussian modeling. These findings highlight the need for a more systematic analysis of paired cryo-EM map and atomic model from the EMDB and PDB to further understand the atom-specific properties in cryo-EM data. </p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/JRL.PNG' | relative_url }}" alt="" title="example image" style="width:300px; height:auto;"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/JRL.PNG' | relative_url }}" alt="" title="example image" style="width:500px; height:auto;"/>
     </div>
 </div>
 
