@@ -8,6 +8,38 @@ news: true
 ---
 
 <h3>
+  <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">
+    A Hierarchical Robust Linear Model for Cryo-EM Map Analysis
+  </a>
+</h3>
+<strong> (bioRxiv (2025)) </strong>
+<p>Cryo-electron microscopy (cryo-EM) has become a pivotal tool for determining the atomic structures of biological macromolecules. In this paper, we propose a hierarchical robust linear (HRL) model to estimate key atom-specific parameters—specifically the amplitude and width of Gaussian functions—that are utilized to assess the consistency between paired cryo-EM maps and their corresponding atomic models, or to improve their refinement. Our HRL modeling leverages minimum density power divergence estimates (MDPDE) to construct a heteroscedastic framework that could potentially mitigate the influence of outliers. We demonstrate the robustness of our method through both simulation studies and real data applications, showing its effectiveness in reducing the impact of outliers and ensuring reliable parameter estimates. Applying our HRL model to analyze real cryo-EM data from human apoferritin (PDB ID: 6Z6U, EMDB ID: 11103) reveals that the Gaussian parameters remain stable across most amino acids, with nitrogen atoms consistently exhibiting lower amplitude and width estimates than expected based on the commonly used Gaussian modeling. These findings highlight the need for a more systematic analysis of paired cryo-EM map and atomic model from the EMDB and PDB to further understand the atom-specific properties in cryo-EM data. </p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/HRL.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+
+
+<h3>
+  <a href="https://rupress.org/jcb/article/224/2/e202406107/277131/Growth-dependent-concentration-gradient-of-the">
+    Growth-Dependent Concentration Gradient of the Oscillating Min System in Escherichia Coli
+  </a>
+</h3>
+<strong> (Journal of Cell Biology (2025)) </strong>
+<p>Cell division in Escherichia coli is intricately regulated by the MinD and MinE proteins, which form oscillatory waves between cell poles. These waves manifest as concentration gradients that reduce MinC inhibition at the cell center, thereby influencing division site placement. This study explores the plasticity of the MinD gradients resulting from the interdependent interplay between molecular interactions and diffusion in the system. Through live cell imaging, we observed that as cells elongate, the gradient steepens, the midcell concentration decreases, and the oscillation period stabilizes. A one-dimensional model investigates kinetic rate constants representing various molecular interactions, effectively recapitulating our experimental findings. The model reveals the nonlinear dynamics of the system and a dynamic equilibrium among these constants, which underlie variable concentration gradients in growing cells. This study enhances quantitative understanding of MinD oscillations within the cellular environment. Furthermore, it emphasizes the fundamental role of concentration gradients in cellular processes.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+<h3>
   <a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2021.788308/full">
     Cryo-EM Analyses Permit Visualization of Structural Polymorphism of Biological Macromolecules
   </a>
