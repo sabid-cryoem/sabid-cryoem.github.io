@@ -49,7 +49,7 @@ news: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6A.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6A.PNG' | relative_url }}" alt="" title="example image" style="width:480px; height:auto;"/>
     </div>
 </div>  
 
@@ -66,7 +66,7 @@ news: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APT.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
