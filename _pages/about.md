@@ -40,18 +40,18 @@ news: true
 
 <h3>
   <a href="https://www.nature.com/articles/s41598-024-62045-8">
-    Use of Phase Plate cryo-EM Reveals Conformation Diversity of Therapeutic IgG with 50 kDa Fab Fragment Resolved below 6 Å
+    Use of Phase Plate cryo-EM Reveals Conformation Diversity of Therapeutic IgG with 50 kDa Fab Fragment Resolved below <br> 6 Å
   </a>
 </h3>
 <strong> (Scientific Reports (2024)) </strong>
 <p>While cryogenic electron microscopy (cryo-EM) is fruitfully used for harvesting high-resolution structures of sizable macromolecules, its application to small or flexible proteins composed of small domains like immunoglobulin (IgG) remain challenging. Here, we applied single particle cryo-EM to Rituximab, a therapeutic IgG mediating anti-tumor toxicity, to explore its solution conformations. We found Rituximab molecules exhibited aggregates in cryo-EM specimens contrary to its solution behavior, and utilized a non-ionic detergent to successfully disperse them as isolated particles amenable to single particle analysis. As the detergent adversely reduced the protein-to-solvent contrast, we employed phase plate contrast to mitigate the impaired protein visibility. Assisted by phase plate imaging, we obtained a canonical three-arm IgG structure with other structures displaying variable arm densities co-existing in solution, affirming high flexibility of arm-connecting linkers. Furthermore, we showed phase plate imaging enables reliable structure determination of Fab to sub-nanometer resolution from ab initio, yielding a characteristic two-lobe structure that could be unambiguously docked with crystal structure. Our findings revealed conformation diversity of IgG and demonstrated phase plate was viable for cryo-EM analysis of small proteins without symmetry. This work helps extend cryo-EM boundaries, providing a valuable imaging and structural analysis framework for macromolecules with similar challenging features.</p>
 
-<!--
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>  -->
+</div>  
 
 
 
