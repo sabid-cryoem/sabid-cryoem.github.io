@@ -9,11 +9,11 @@ news: true
 
 
 We are an interdisciplinary team at Academia Sinica combining statistics, chemistry, and biology to push the limits of cryo-electron microscopy (cryo-EM). Our work ranges from developing robust algorithms for image analysis and structure classification to pioneering new methods for extracting electrostatic and chemical features directly from cryo-EM maps. By uniting statistical innovation with molecular science, we aim to transform cryo-EM into a tool not only for structural determination but also for quantitative chemical insight that drives discovery in biology and medicine.
+<br/>
 
-
-<h4>
+<h3>
 EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling
-</h4>
+</h3>
 <strong style="display:inline;"> (Annals of Mathematical Sciences and Applications) </strong>
 <p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
 reconstruct thousands of 3D volumes before analysis, EM-2SDR integrates a tensor-based dimensionality reduction step within the EM framework, enabling efficient extraction of low-dimensional
@@ -25,7 +25,7 @@ analyzing structural heterogeneity in large biomolecular complexes.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/KM.PNG' | relative_url }}" alt="" title="example image" style="width:500px; height:auto;"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/KM.PNG' | relative_url }}" alt="" title="example image" style="width:450px; height:auto;"/>
     </div>
 </div>
 
@@ -78,7 +78,7 @@ analyzing structural heterogeneity in large biomolecular complexes.
 </div>  
 
 
-
+<!--
 <h3>
   <a href="https://www.nature.com/articles/s41467-023-40672-5">
     A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
@@ -93,7 +93,7 @@ analyzing structural heterogeneity in large biomolecular complexes.
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image" style="width:520px; height:auto;"/>
     </div>
 </div>
-
+-->
 
 
 
@@ -134,7 +134,7 @@ and other applications, such as brain network development in infants.</p>
 </div>
 
 
-
+<!--
 
 <h3>
   <a href="https://pubs.acs.org/doi/pdf/10.1021/jacs.1c04082">
@@ -149,7 +149,7 @@ and other applications, such as brain network development in infants.</p>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Copp.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
+</div>  -->
 
 
 
@@ -179,7 +179,11 @@ and other applications, such as brain network development in infants.</p>
 <strong> (Microscopy and Microanalysis  (2021))</strong>
 <p>Moment of Inertia (MoI) as a 2 by 2 matrix I containing the central moments with order two, whose first eigenvector corresponds to the object’s orientation, has been a popular tool for image alignment (Jan, Suk and Zitová, 2016). However, the low SNR nature of cryo-EM images has prevented the direct application of MoI. We proposed an algorithm called Rapid Alignment with Moment of Inertia (rAMI), and we show that it can be widely applicable to the current alignment steps in cryo-EM.  </p>
 
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MI.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
 <h3>
   <a href="https://ieeexplore.ieee.org/abstract/document/9506045">
@@ -188,6 +192,12 @@ and other applications, such as brain network development in infants.</p>
 </h3>
 <strong> (2021 IEEE International Conference on Image Process (ICIP) (2021))</strong>
 <p>Thanks to GPU-accelerated processing, cryo-EM has become a rapid structure determination method that permits capture of dynamical structures of molecules in solution, which has been recently demonstrated by the determination of COVID-19 spike protein in March, shortly after its breakout in late January 2020. This rapidity is critical for vaccine development in response to the emerging pandemic. Compared to the Bayesian-based 2D classification widely used in the work-flow, the multi-reference alignment (MRA) is less popular. It is time-consuming despite its superior in differentiating structural variations. Interestingly, the Bayesian approach has higher complexity than MRA. We thereby reason that the popularity of Bayesian is gained through GPU acceleration, where a modular acceleration library for MRA is lacking. Here, we introduce a library called Cryo-RALib that expands the functionality of CUDA library used by GPU ISAC. It contains a GPU-accelerated MRA routine for accelerating MRA-based classification algorithms. In addition, we connect the cryo-EM image analysis with the python data science stack to make it easier for users to perform data analysis and visualization. Benchmarking on the TaiWan Computing Cloud (TWCC) shows that our implementation can accelerate the computation by one order of magnitude. </p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/RALIB.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
 
 <h3>
@@ -198,15 +208,20 @@ and other applications, such as brain network development in infants.</p>
 <strong> (Academia Sinica  (2021))</strong>
 <p>“Einstein from Noise” states a pitfall in cryo-electron microscopy analysis that a processing output could be heavily biased towards the imposed model. We develop a simple mathematical framework under which an image is expressed as a vector of dimension p where p is large and show how the bias is formed by averaging a properly chosen set of purely noise images that are most highly correlated with the target image. </p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/EN.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
 
-
+<!--
 <h3>
    Endex: Degree of Mining Power Decentralization for Proof-of-Work Based Blockchain Systems
 </h3>
 <strong> (IEEE Network Magazine (2020))</strong>
 <p>We proposed Endex to quantify the centralization of mining power of the blockchain. Testing on 4 blockchain systems shows the index peaks match double spending attack events and can be used as an alarm index double spending attack. </p>
-
+-->
 
 
 <h3>
@@ -217,6 +232,11 @@ and other applications, such as brain network development in infants.</p>
 <strong>(Communications Biology (2020))</strong>
 <p>2D classification plays a pivotal role in analyzing single particle cryo-electron microscopy images. Itis mainly used to curate cryo-EM images by harvesting good particle datasets by separating good par-ticles from bad ones or non-particle contaminants. Due largely to the presence of heavy noise, theclassification results are often non-ideal while the computation burden is further aggravated by recentexpansion in size and number of images. Here, we introduce a simple and loss-less pre-processor thatincorporates a fast dimension-reduction (2SDR) de-noiser to enhance 2D classification. By implement-ing this 2SDR pre-processor prior to representative classification algorithms including RELION andISAC, we compare the performances with and without the pre-processor. Tests on multiple cryo-EMexperimental datasets show the pre-processor can make the classification faster, improve the yield ofparticles, and increase the number of good classes to generate better initial models. Testing on thenanodisc-embedded TRPV1 dataset with high heterogeneity with a 3D reconstruction workflow usingthe initial model generated by class-averages, we found that the pre-processor improved the resolutionto 2.82 Å toward the Nyquist frequency. Those findings and analyses suggest the 2SDR de-noiser, ofminimal cost, is widely applicable for boosting the performances of 2D classification algorithms. Thegeneralization of the pre-processing strategy to accommodate neural network de-noisers is discussed. </p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PRE.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
 
 
 <h3>
@@ -241,6 +261,13 @@ and other applications, such as brain network development in infants.</p>
 
 
 
+
+
+ ▪  <a href="https://www.nature.com/articles/s41467-023-40672-5">
+    A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
+  </a>
+<strong> (Nature Communications (2024)) </strong>
+<br/>
 
  ▪  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
   Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes

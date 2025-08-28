@@ -20,12 +20,12 @@ title: People
       </thead>
     <tbody>
         <tr>
-            <td><a href="http://www.stat.sinica.edu.tw/iping/">I-Ping Tu  &nbsp;(Institute of Statistical Science)</a></td>
+            <td><a href="http://www.stat.sinica.edu.tw/iping/">I-Ping Tu </a> &nbsp;(Institute of Statistical Science)</td>
             <!--<td>Colaborative PI(Group Coordinator)</td> 
             <td>Institute of Statistical Science</td>-->
         </tr>
         <tr>
-            <td><a href="https://www.chem.sinica.edu.tw/faculty/index.php?piName=weihau">Wei-Hau Chang  &nbsp;(Institute of Chemistry)</a></td>
+            <td><a href="https://www.chem.sinica.edu.tw/faculty/index.php?piName=weihau">Wei-Hau Chang  </a>&nbsp;(Institute of Chemistry)</td>
             <!--<td>Colaborative PI</td> 
             <td>Institute of Chemistry</td>-->
         </tr>
