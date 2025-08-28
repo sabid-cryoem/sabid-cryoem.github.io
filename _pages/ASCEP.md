@@ -3,10 +3,10 @@ layout: page
 permalink: /ASCEP/
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
 description: 2023 • Institute of Statistical Science, Academia Sinica
-logo: /assets/img/AcademiaSinica.png
-news: true
+logo: <img src="/assets/img/AcademiaSinica.png" alt="Logo">   
 ---
-
+<!--{{ '/assets/img/AcademiaSinica.png' | relative_url }}  /assets/img/AcademiaSinica.png-->
+news: true
 ### A Speedy and robust Cryo-EM processing Platform (ASCEP)
 With the recent advance in the equipment together with GPU-accelerated computations and enhancement of algorithms, Cryo-electron microscopy (cryo-EM) has become a mainstream technique to solve structures of macro-molecules at near-atomic resolution. However, further extending to atomic resolution has been hindered by both the noisy nature of the recorded images and the heterogeneity of samples. Enhancement of the signal-to-noise Ratio (SNR) and differentiate the conformation states of these images are thus the keys for solving higher resolution 3D structure. Here, a Speedy and robust Cryo-EM processing Platform (ASCEP) based on Scipion developed by our team is proposed. It contains a cleaner interface and provides novel algorithms from our team.
 
