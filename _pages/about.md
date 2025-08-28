@@ -276,7 +276,6 @@ and other applications, such as brain network development in infants.</p>
   </a>
 <strong> (Nature Communications (2024)) </strong>
 <br/>
-
  ▪  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
   Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes
   </a>  <strong>(Methods (2019))</strong>
