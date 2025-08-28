@@ -10,9 +10,9 @@ news: true
 <br/>
 We are an interdisciplinary team at Academia Sinica combining statistics, chemistry, and biology to push the limits of cryo-electron microscopy (cryo-EM). Our work ranges from developing robust algorithms for image analysis and structure classification to pioneering new methods for extracting electrostatic and chemical features directly from cryo-EM maps. By uniting statistical innovation with molecular science, we aim to transform cryo-EM into a tool not only for structural determination but also for quantitative chemical insight that drives discovery in biology and medicine.
 <br/>
+<br/>
 
-
-<h3>
+<h3 style="color: #007ACC;">
 EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling</h3>
 <strong > (Annals of Mathematical Sciences and Applications) </strong>
 <p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
