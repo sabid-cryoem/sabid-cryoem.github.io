@@ -249,7 +249,15 @@ and other applications, such as brain network development in infants.</p>
  </p>
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MPCA.PNG' | relative_url }}" alt="" title="example image" style="width:550px; height:auto;"/>
+    </div>
+</div>
 
+
+
+<!--
  <h3>
   <a href="https://www.sciencedirect.com/science/article/pii/S0047259X19301915">
     On asymptotic normality of cross data matrix-based PCA in high dimension low sample size
@@ -258,7 +266,7 @@ and other applications, such as brain network development in infants.</p>
 <strong>(Journal of Multivariate Analysis (2020))</strong>
 <p>Principal component analysis in high dimension low sample size setting has been an active research area in recent years. Yata and Aoshima (2010) proposed a cross data matrix-based method and showed the asymptotic normality for estimates of spiked eigenvalues and also consistency for corresponding estimates of PC directions. However, the asymptotic normality for estimates of PC directions is still lacking. In this article, we have extended Yata and Aoshima (2010)’s work to include the investigation of the asymptotic normality for the leading CDM-based PC directions and to compare it with the asymptotic normality for the classical PCA. Numerical examples are provided to illustrate the asymptotic normality.
  </p>
-
+-->
 
 
 
