@@ -2,8 +2,8 @@
 layout: page
 permalink: /Introduce/
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
-description: 2023 • Institute of Statistical Science, Academia Sinica
-logo: AcademiaSinica.png
+description: 2025 • Institute of Statistical Science, Academia Sinica
+logo: /assets/imgAcademiaSinica.png
 news: true
 ---
 

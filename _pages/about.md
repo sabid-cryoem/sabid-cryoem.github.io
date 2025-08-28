@@ -10,6 +10,27 @@ news: true
 
 We are an interdisciplinary team at Academia Sinica combining statistics, chemistry, and biology to push the limits of cryo-electron microscopy (cryo-EM). Our work ranges from developing robust algorithms for image analysis and structure classification to pioneering new methods for extracting electrostatic and chemical features directly from cryo-EM maps. By uniting statistical innovation with molecular science, we aim to transform cryo-EM into a tool not only for structural determination but also for quantitative chemical insight that drives discovery in biology and medicine.
 
+
+<h4>
+EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling
+</h4>
+<strong style="display:inline;"> (Annals of Mathematical Sciences and Applications) </strong>
+<p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
+reconstruct thousands of 3D volumes before analysis, EM-2SDR integrates a tensor-based dimensionality reduction step within the EM framework, enabling efficient extraction of low-dimensional
+structural features without intermediate reconstruction. Tests on benchmark ribosome datasets
+show that EM-2SDR achieves near-perfect classification accuracy, substantially outperforming
+standard EM-PCA. This approach offers a fast, accurate, and reconstruction-free framework for
+analyzing structural heterogeneity in large biomolecular complexes.
+ </p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/KM.PNG' | relative_url }}" alt="" title="example image" style="width:500px; height:auto;"/>
+    </div>
+</div>
+
+
+
 <h3>
   <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">A Hierarchical Robust Linear Model for Cryo-EM Map <br>Analysis</a>
 </h3>
