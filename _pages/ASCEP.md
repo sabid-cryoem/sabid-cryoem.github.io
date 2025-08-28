@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /ASCEP/
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
 description: 2023 • Institute of Statistical Science, Academia Sinica
