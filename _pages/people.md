@@ -6,27 +6,27 @@ title: People
 
 <h3 class="post-title"><u>Members</u></h3>
 <table>
-    <colgroup>
+    <!--<colgroup>
         <col style="width:25%">
         <col style="width:45%">
         <col style="width:30%">
-      </colgroup>
+      </colgroup>-->
       <thead class="thead-light">
         <tr>
-          <th scope="col">Name</th>
-          <th scope="col">Title</th>
-          <th scope="col"></th>
+          <th scope="col">PI</th>
+          <!--<th scope="col">Title</th>
+          <th scope="col"></th>-->
         </tr>
       </thead>
     <tbody>
         <tr>
             <td><a href="http://www.stat.sinica.edu.tw/iping/">I-Ping Tu</a></td>
-            <td>Colaborative PI(Group Coordinator)</td>
+            <!--<td>Colaborative PI(Group Coordinator)</td> -->
             <td>Institute of Statistical Science</td>
         </tr>
         <tr>
             <td><a href="https://www.chem.sinica.edu.tw/faculty/index.php?piName=weihau">Wei-Hau Chang</a></td>
-            <td>Colaborative PI</td>
+            <!--<td>Colaborative PI</td> -->
             <td>Institute of Chemistry</td>
         </tr>
     </tbody>
