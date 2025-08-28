@@ -3,7 +3,7 @@ layout: page
 permalink: /ASCEP/
 title: <b>S</b>tatistical <b>A</b>nalysis for <b>B</b>iological <b>I</b>mage <b>D</b>ata
 description: 2023 • Institute of Statistical Science, Academia Sinica
-logo: <img src="/assets/img/AcademiaSinica.png" alt="Logo">   
+logo: <img src="/assets/img/AcademiaSinica.png">   
 ---
 <!--{{ '/assets/img/AcademiaSinica.png' | relative_url }}  /assets/img/AcademiaSinica.png-->
 news: true
