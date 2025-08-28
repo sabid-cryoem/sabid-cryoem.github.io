@@ -181,7 +181,7 @@ and other applications, such as brain network development in infants.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MI.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/MI.PNG' | relative_url }}" alt="" title="example image"style="width:550px; height:auto;"/>
     </div>
 </div>
 
@@ -210,7 +210,7 @@ and other applications, such as brain network development in infants.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/EN.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/EN.PNG' | relative_url }}" alt="" title="example image" style="width:480px; height:auto;"/>
     </div>
 </div>
 
@@ -234,7 +234,7 @@ and other applications, such as brain network development in infants.</p>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PRE.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PRE.PNG' | relative_url }}" alt="" title="example image"style="width:550px; height:auto;"/>
     </div>
 </div>
 
