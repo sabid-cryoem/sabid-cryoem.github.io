@@ -240,8 +240,7 @@ and other applications, such as brain network development in infants.</p>
  </p>
 -->
 
-<h3> Collaboration Works </h3>
-
+<h2> Collaboration Works </h2>
 <h3>
   <a href="https://rupress.org/jcb/article/224/2/e202406107/277131/Growth-dependent-concentration-gradient-of-the">
     Growth-Dependent Concentration Gradient of the Oscillating Min System in Escherichia Coli
