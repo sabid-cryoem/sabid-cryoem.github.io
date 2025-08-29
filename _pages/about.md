@@ -15,8 +15,8 @@ We are an interdisciplinary team at Academia Sinica combining statistics, chemis
 <br/>
 <br/>
 
-<h3 class="no-anchor">
-EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling</h3>
+<div style="font-size:1.25em; font-weight:bold;">
+EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling</div>
 <strong > (Annals of Mathematical Sciences and Applications) </strong>
 <p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
 reconstruct thousands of 3D volumes before analysis, EM-2SDR integrates a tensor-based dimensionality reduction step within the EM framework, enabling efficient extraction of low-dimensional
@@ -34,9 +34,9 @@ analyzing structural heterogeneity in large biomolecular complexes.
 
 
 
-<h3>
+<div style="font-size:1.25em; font-weight:bold;">
   <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">A Hierarchical Robust Linear Model for Cryo-EM Map <br>Analysis</a>
-</h3>
+</div>
 <strong style="display:inline;"> (bioRxiv (2025)) </strong>
 <p>Cryo-electron microscopy (cryo-EM) has become a pivotal tool for determining the atomic structures of biological macromolecules. In this paper, we propose a hierarchical robust linear (HRL) model to estimate key atom-specific parameters—specifically the amplitude and width of Gaussian functions—that are utilized to assess the consistency between paired cryo-EM maps and their corresponding atomic models, or to improve their refinement. Our HRL modeling leverages minimum density power divergence estimates (MDPDE) to construct a heteroscedastic framework that could potentially mitigate the influence of outliers. We demonstrate the robustness of our method through both simulation studies and real data applications, showing its effectiveness in reducing the impact of outliers and ensuring reliable parameter estimates. Applying our HRL model to analyze real cryo-EM data from human apoferritin (PDB ID: 6Z6U, EMDB ID: 11103) reveals that the Gaussian parameters remain stable across most amino acids, with nitrogen atoms consistently exhibiting lower amplitude and width estimates than expected based on the commonly used Gaussian modeling. These findings highlight the need for a more systematic analysis of paired cryo-EM map and atomic model from the EMDB and PDB to further understand the atom-specific properties in cryo-EM data. </p>
 
