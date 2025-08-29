@@ -15,7 +15,7 @@ We are an interdisciplinary team at Academia Sinica combining statistics, chemis
 <br/>
 <br/>
 
-<div style="font-size:1.25em; font-weight:bold;">
+<div style="font-size:2em; ">
 EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling</div>
 <strong > (Annals of Mathematical Sciences and Applications) </strong>
 <p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
@@ -34,7 +34,7 @@ analyzing structural heterogeneity in large biomolecular complexes.
 
 
 
-<div style="font-size:1.25em; font-weight:bold;">
+<div style="font-size:2em; ">
   <a href="https://www.biorxiv.org/content/10.1101/2025.07.10.664269v1">A Hierarchical Robust Linear Model for Cryo-EM Map <br>Analysis</a>
 </div>
 <strong style="display:inline;"> (bioRxiv (2025)) </strong>
