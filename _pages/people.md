@@ -4,20 +4,20 @@ permalink: /people/
 title: People
 ---
 
-<h3 class="post-title"><u>Members</u></h3>
+<h3 class="post-title"><u>Principal Investigators</u></h3>
 <table>
     <!--<colgroup>
         <col style="width:25%">
         <col style="width:45%">
         <col style="width:30%">
       </colgroup>-->
-      <thead class="thead-light">
+     <!-- <thead class="thead-light">
         <tr>
           <th scope="col">PI</th>
-          <!--<th scope="col">Title</th>
-          <th scope="col"></th>-->
+          <th scope="col">Title</th>
+          <th scope="col"></th>
         </tr>
-      </thead>
+      </thead>-->
     <tbody>
         <tr>
             <td><a href="http://www.stat.sinica.edu.tw/iping/">I-Ping Tu </a> &nbsp;(Institute of Statistical Science)</td>

@@ -46,20 +46,6 @@ analyzing structural heterogeneity in large biomolecular complexes.
 
 
 
-<h3>
-  <a href="https://rupress.org/jcb/article/224/2/e202406107/277131/Growth-dependent-concentration-gradient-of-the">
-    Growth-Dependent Concentration Gradient of the Oscillating Min System in Escherichia Coli
-  </a>
-</h3>
-<strong> (Journal of Cell Biology (2025)) </strong>
-<p>Cell division in Escherichia coli is intricately regulated by the MinD and MinE proteins, which form oscillatory waves between cell poles. These waves manifest as concentration gradients that reduce MinC inhibition at the cell center, thereby influencing division site placement. This study explores the plasticity of the MinD gradients resulting from the interdependent interplay between molecular interactions and diffusion in the system. Through live cell imaging, we observed that as cells elongate, the gradient steepens, the midcell concentration decreases, and the oscillation period stabilizes. A one-dimensional model investigates kinetic rate constants representing various molecular interactions, effectively recapitulating our experimental findings. The model reveals the nonlinear dynamics of the system and a dynamic equilibrium among these constants, which underlie variable concentration gradients in growing cells. This study enhances quantitative understanding of MinD oscillations within the cellular environment. Furthermore, it emphasizes the fundamental role of concentration gradients in cellular processes.</p>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
 
 
 <h3>
@@ -78,24 +64,10 @@ analyzing structural heterogeneity in large biomolecular complexes.
 </div>  
 
 
+
+
+
 <!--
-<h3>
-  <a href="https://www.nature.com/articles/s41467-023-40672-5">
-    A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
-  </a>
-</h3>
-<strong> (Nature Communications (2024)) </strong>
-<p>ATP-dependent RAD51 recombinases play an essential role in eukaryotic homologous recombination by catalyzing a four-step process: 1) formation of a RAD51 single-filament assembly on ssDNA in the presence of ATP, 2) complementary DNA strand-exchange, 3) ATP hydrolysis transforming the RAD51 filament into an ADP-bound disassembly-competent state, and 4) RAD51 disassembly to provide access for DNA repairing enzymes. Of these steps, filament dynamics between the ATP- and ADP-bound states, and the RAD51 disassembly mechanism, are poorly understood due to the lack of near-atomic-resolution information of the ADP-bound RAD51–DNA filament structure. We report the cryo-EM structure of ADP-bound RAD51–DNA filaments at 3.1 Å resolution, revealing a unique RAD51 double-filament that wraps around ssDNA. Structural analysis, supported by ATP-chase and time-resolved cryo-EM experiments, reveals a collapsing mechanism involving two four-protomer movements along ssDNA for mechanical transition between RAD51 single- and double-filament without RAD51 dissociation. This mechanism enables elastic change of RAD51 filament length during structural transitions between ATP- and ADP-states.</p>
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image" style="width:520px; height:auto;"/>
-    </div>
-</div>
--->
-
-
 
 <h3>
   <a href="https://www3.stat.sinica.edu.tw/statistica/J33N21/J33N2129/J33N2129.html">
@@ -113,7 +85,7 @@ and other applications, such as brain network development in infants.</p>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/SS2023.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
+</div>  -->
 
 
 
@@ -268,14 +240,47 @@ and other applications, such as brain network development in infants.</p>
  </p>
 -->
 
+<h3> Collaboration Works </h3>
+
+<h3>
+  <a href="https://rupress.org/jcb/article/224/2/e202406107/277131/Growth-dependent-concentration-gradient-of-the">
+    Growth-Dependent Concentration Gradient of the Oscillating Min System in Escherichia Coli
+  </a>
+</h3>
+<strong> (Journal of Cell Biology (2025)) </strong>
+<p>Cell division in Escherichia coli is intricately regulated by the MinD and MinE proteins, which form oscillatory waves between cell poles. These waves manifest as concentration gradients that reduce MinC inhibition at the cell center, thereby influencing division site placement. This study explores the plasticity of the MinD gradients resulting from the interdependent interplay between molecular interactions and diffusion in the system. Through live cell imaging, we observed that as cells elongate, the gradient steepens, the midcell concentration decreases, and the oscillation period stabilizes. A one-dimensional model investigates kinetic rate constants representing various molecular interactions, effectively recapitulating our experimental findings. The model reveals the nonlinear dynamics of the system and a dynamic equilibrium among these constants, which underlie variable concentration gradients in growing cells. This study enhances quantitative understanding of MinD oscillations within the cellular environment. Furthermore, it emphasizes the fundamental role of concentration gradients in cellular processes.</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/coli.PNG' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+
+<h3>
+  <a href="https://www.nature.com/articles/s41467-023-40672-5">
+    A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
+  </a>
+</h3>
+<strong> (Nature Communications (2024)) </strong>
+<p>ATP-dependent RAD51 recombinases play an essential role in eukaryotic homologous recombination by catalyzing a four-step process: 1) formation of a RAD51 single-filament assembly on ssDNA in the presence of ATP, 2) complementary DNA strand-exchange, 3) ATP hydrolysis transforming the RAD51 filament into an ADP-bound disassembly-competent state, and 4) RAD51 disassembly to provide access for DNA repairing enzymes. Of these steps, filament dynamics between the ATP- and ADP-bound states, and the RAD51 disassembly mechanism, are poorly understood due to the lack of near-atomic-resolution information of the ADP-bound RAD51–DNA filament structure. We report the cryo-EM structure of ADP-bound RAD51–DNA filaments at 3.1 Å resolution, revealing a unique RAD51 double-filament that wraps around ssDNA. Structural analysis, supported by ATP-chase and time-resolved cryo-EM experiments, reveals a collapsing mechanism involving two four-protomer movements along ssDNA for mechanical transition between RAD51 single- and double-filament without RAD51 dissociation. This mechanism enables elastic change of RAD51 filament length during structural transitions between ATP- and ADP-states.</p>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ATP.PNG' | relative_url }}" alt="" title="example image" style="width:520px; height:auto;"/>
+    </div>
+</div>
+
 
 <h3> More Publications </h3>
 
- ▪  <a href="https://www.nature.com/articles/s41467-023-40672-5">
+<!-- ▪  <a href="https://www.nature.com/articles/s41467-023-40672-5">
     A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
   </a>
 <strong> (Nature Communications (2024)) </strong>
-<br/>
+<br/>  -->
  ▪  <a href="https://www.sciencedirect.com/science/article/pii/S1046202318303013?via%3Dihub">
   Deriving a Sub-Nanomolar Affinity Peptide From TAP to Enable smFRET Analysis of RNA Polymerase II Complexes
   </a>  <strong>(Methods (2019))</strong>
