@@ -276,7 +276,7 @@ and other applications, such as brain network development in infants.</p>
 </div>
 
 
-<h3> More Publications </h3>
+<h3 style="font-size:2rem; font-weight:bold;"> More Publications </h3>
 
 <!-- ▪  <a href="https://www.nature.com/articles/s41467-023-40672-5">
     A RAD51–ADP Double Filament Structure Unveils the Mechanism of Filament Dynamics in Homologous Recombination
