@@ -21,6 +21,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+h1.no-anchor .anchor,
+h2.no-anchor .anchor,
+h3.no-anchor .anchor,
+h4.no-anchor .anchor,
+h5.no-anchor .anchor,
+h6.no-anchor .anchor {
+  display: none;
+}
+
+
 @media
 (-webkit-min-device-pixel-ratio: 2),
 (min-resolution: 192dpi) {
