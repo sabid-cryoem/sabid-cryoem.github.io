@@ -7,6 +7,9 @@ logo: AcademiaSinica.png
 news: true
 ---
 
+
+
+
 <br/>
 We are an interdisciplinary team at Academia Sinica combining statistics, chemistry, and biology to push the limits of cryo-electron microscopy (cryo-EM). Our work ranges from developing robust algorithms for image analysis and structure classification to pioneering new methods for extracting electrostatic and chemical features directly from cryo-EM maps. By uniting statistical innovation with molecular science, we aim to transform cryo-EM into a tool not only for structural determination but also for quantitative chemical insight that drives discovery in biology and medicine.
 <br/>
@@ -240,7 +243,7 @@ and other applications, such as brain network development in infants.</p>
  </p>
 -->
 
-<h3> Collaboration Works </h3>
+<h3 style="font-size:1.6rem; font-weight:bold; margin-bottom: 0.5em;"> Collaboration Works </h3>
 <h3>
   <a href="https://rupress.org/jcb/article/224/2/e202406107/277131/Growth-dependent-concentration-gradient-of-the">
     Growth-Dependent Concentration Gradient of the Oscillating Min System in Escherichia Coli

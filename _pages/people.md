@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 ---
 
-<h3 class="post-title"><u>Principal Investigators</u></h3>
+<h4 class="post-title"><u>Principal Investigators</u></h4>
 <table>
     <!--<colgroup>
         <col style="width:25%">
