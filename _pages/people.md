@@ -32,6 +32,28 @@ title: People
     </tbody>
 </table>
 <p>
+<h4 class="post-title"><u>Former Collaborated PI </u></h4>
+<table>
+    <tbody>
+      <tr>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
+            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+        </tr>
+        <tr>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
+            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+        </tr>
+        <tr>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
+            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+        </tr>
+        <tr>
+            <td>▪ <a href="https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw">Szu-Chi Chung</a></td>
+            <td>       &nbsp;&nbsp;Department of Applied Mathematics, National Sun Yet-sen University</td>
+        </tr>
+    </tbody>
+</table>
+<br/>
 <h4 class="post-title"><u>Postdocs</u></h4>
 <table>
     <tbody>
@@ -79,14 +101,10 @@ title: People
 <h4 class="post-title"><u>Former Members</u></h4>
 <table>
     <tbody>
-        <tr>
-            <td>▪ <a href="https://math.nsysu.edu.tw/p/406-1183-263491,r2843.php?Lang=zh-tw">Szu-Chi Chung</a></td>
-            <td>       &nbsp;&nbsp;Department of Applied Mathematics, National Sun Yet-sen University</td>
-        </tr>
-        <tr>
+     <!--   <tr>
             <td>▪ <a href="http://www.stat.ncu.edu.tw/index.php/faculty/more/312">Shao-Hsuan Wang</a></td>
             <td>       &nbsp;&nbsp;Graduate Insitute of Statistics, National Central University</td>
-        </tr>
+        </tr>  -->
         <tr>
             <td>
             ▪ Chun-Lu Huang
@@ -101,18 +119,6 @@ title: People
             <td>
             ▪ Cheng-Yu Hung
             </td>
-        </tr>
-        <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
-        </tr>
-        <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
-        </tr>
-        <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
         </tr>
         <tr>
             <td>▪ <a href="https://www.ibc.sinica.edu.tw/people/investigators/principal-investigators/yu-ling-shih/">Yu-Ling Shih</a></td>

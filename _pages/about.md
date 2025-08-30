@@ -15,9 +15,12 @@ We are an interdisciplinary team at Academia Sinica combining statistics, chemis
 <br/>
 <br/>
 
+
+
+<h3 style="font-size:2rem; font-weight:bold;">Research Highlights (Past 5 Years)</h3>
 <h3>
-EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure Modeling</h3>
-<strong > (Annals of Mathematical Sciences and Applications) </strong>
+<a href="https://dx.doi.org/10.4310/AMSA.250829225223">EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure</a> Modeling</h3>
+<strong > (Annals of Mathematical Sciences and Applications (2025)) </strong>
 <p>We present EM-2SDR, an expectation–maximization algorithm that clusters 3D protein conformations directly from raw 2D cryo-EM particle images. Unlike conventional approaches that
 reconstruct thousands of 3D volumes before analysis, EM-2SDR integrates a tensor-based dimensionality reduction step within the EM framework, enabling efficient extraction of low-dimensional
 structural features without intermediate reconstruction. Tests on benchmark ribosome datasets
@@ -128,7 +131,7 @@ and other applications, such as brain network development in infants.</p>
 
 
 
-
+<!--
 
 <h3>
   <a href="https://www.frontiersin.org/journals/bioinformatics/articles/10.3389/fbinf.2021.788308/full">
@@ -142,7 +145,7 @@ and other applications, such as brain network development in infants.</p>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/PB2021.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
-</div>
+</div> -->
 
 
 
