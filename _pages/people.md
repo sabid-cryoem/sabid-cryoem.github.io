@@ -36,16 +36,16 @@ title: People
 <table>
     <tbody>
       <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/syhuang/">Su-Yun Huang</a>  &nbsp;(Institute of Statistical Science)</td>
+            <!--<td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>  -->
         </tr>
         <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/tlchen/">Ting-Li Chen</a>  &nbsp;(Institute of Statistical Science)</td>
+            <!-- <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>  -->
         </tr>
         <tr>
-            <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a></td>
-            <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>
+            <td>▪ <a href="http://www.stat.sinica.edu.tw/yao/">Yi-Ching Yao</a>  &nbsp;(Institute of Statistical Science)</td>
+          <!--  <td>       &nbsp;&nbsp;Institute of Statistical Science, Academia Sinica</td>  -->
         </tr>
     </tbody>
 </table>
