@@ -17,7 +17,7 @@ We are an interdisciplinary team at Academia Sinica combining statistics, chemis
 
 
 
-<h3 style="font-size:2rem; font-weight:bold;">Research Highlights (Past 5 Years)</h3>
+<h3 style="font-size:2rem; font-weight:bold; margin-bottom: -0.5em;">Research Highlights (Past 5 Years)</h3>
 <h3>
 <a href="https://dx.doi.org/10.4310/AMSA.250829225223">EM-2SDR: Unsupervised Clustering of 3D Conformations Directly from 2D Cryo-EM Images via Tensor-Structure</a> Modeling</h3>
 <strong > (Annals of Mathematical Sciences and Applications (2025)) </strong>
