@@ -186,7 +186,7 @@ and other applications, such as brain network development in infants.</p>
     Quantification of model bias underlying the phenomenon of Einstein from Noise
   </a>
 </h3>
-<strong> (Academia Sinica  (2021))</strong>
+<strong> (Statistica Sinica (2021))</strong>
 <p>“Einstein from Noise” states a pitfall in cryo-electron microscopy analysis that a processing output could be heavily biased towards the imposed model. We develop a simple mathematical framework under which an image is expressed as a vector of dimension p where p is large and show how the bias is formed by averaging a properly chosen set of purely noise images that are most highly correlated with the target image. </p>
 
 <div class="row">
